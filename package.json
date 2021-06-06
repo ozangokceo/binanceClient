@@ -1,0 +1,19 @@
+{
+  "name": "ozan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.50.19",
+    "chart.js": "^3.3.2",
+    "dotenv": "^9.0.2",
+    "schedule": "^0.5.0"
+  }
+}
