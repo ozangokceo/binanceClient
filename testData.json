@@ -10852,5 +10852,3173 @@
         "value": 53.510146535460926,
         "trend": 1.0000803471879134,
         "mode": "testMain"
+    },
+    {
+        "price": 96.59465870746983,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:23:40 PM",
+        "value": 53.51491093800327,
+        "trend": 1.000089037366758,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50811543203757,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:24:40 PM",
+        "value": 53.51920265747403,
+        "trend": 1.0000801967039754,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50811543203757,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:25:40 PM",
+        "value": 53.52358296040457,
+        "trend": 1.0000818454444953,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.46749307826323,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:26:40 PM",
+        "value": 53.52828151444397,
+        "trend": 1.0000877847442105,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.46749307826323,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:27:40 PM",
+        "value": 53.53251754941748,
+        "trend": 1.0000791363902157,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.29264033810418,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:28:40 PM",
+        "value": 53.53699143894694,
+        "trend": 1.0000835733071087,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.3473922062348,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:29:40 PM",
+        "value": 53.54167226272032,
+        "trend": 1.0000874315804376,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.48868734979767,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:30:40 PM",
+        "value": 53.546437372940275,
+        "trend": 1.0000889981582304,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.4851549712086,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:31:40 PM",
+        "value": 53.551277969109265,
+        "trend": 1.0000903999669535,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.45689594249603,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:32:40 PM",
+        "value": 53.55577205322422,
+        "trend": 1.0000839211366261,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.09482713711616,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:33:40 PM",
+        "value": 53.560267661582365,
+        "trend": 1.0000839425553174,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.27851082374791,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:34:40 PM",
+        "value": 53.56487825246468,
+        "trend": 1.0000860822972628,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.53637446075017,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:35:40 PM",
+        "value": 53.57031824780184,
+        "trend": 1.0001015589975117,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.46925926755779,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:36:40 PM",
+        "value": 53.57551430410917,
+        "trend": 1.0000969950613938,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.34562601694027,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:37:40 PM",
+        "value": 53.58043015997852,
+        "trend": 1.0000917556449658,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.09482713711617,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:38:40 PM",
+        "value": 53.584933866231125,
+        "trend": 1.0000840550596395,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.282043202337,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:39:40 PM",
+        "value": 53.589916881272316,
+        "trend": 1.0000929928373827,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2767446344534,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:40:40 PM",
+        "value": 53.59428625657126,
+        "trend": 1.0000815335337918,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.08069762275989,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:41:40 PM",
+        "value": 53.59918550069709,
+        "trend": 1.0000914135529742,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.90937726118989,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:42:40 PM",
+        "value": 53.60349838602731,
+        "trend": 1.0000804655012931,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.14781281595226,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:43:41 PM",
+        "value": 53.608440220647914,
+        "trend": 1.0000921923898514,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9923881580331,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:44:40 PM",
+        "value": 53.61294747301289,
+        "trend": 1.0000840772898152,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.92703915413527,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:45:40 PM",
+        "value": 53.617657151060406,
+        "trend": 1.000087845907929,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9923881580331,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:46:40 PM",
+        "value": 53.62242266387092,
+        "trend": 1.0000888795419967,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.1884351697266,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:47:40 PM",
+        "value": 53.62764000076066,
+        "trend": 1.0000972976719542,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16900708748672,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:48:40 PM",
+        "value": 53.63291495802898,
+        "trend": 1.0000983626590363,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16900708748672,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:49:40 PM",
+        "value": 53.63852431240817,
+        "trend": 1.0001045879080708,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.12308616582877,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:50:40 PM",
+        "value": 53.64381039652068,
+        "trend": 1.000098550140599,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.93940247919701,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:51:40 PM",
+        "value": 53.64873608371379,
+        "trend": 1.000091822097586,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.06833429769814,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:52:40 PM",
+        "value": 53.65399871926252,
+        "trend": 1.000098094306276,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.06833429769814,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:53:40 PM",
+        "value": 53.6590678298819,
+        "trend": 1.0000944777787375,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.14781281595226,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:54:40 PM",
+        "value": 53.664602829485766,
+        "trend": 1.0001031512440994,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.27851082374792,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:55:40 PM",
+        "value": 53.67049960668872,
+        "trend": 1.0001098820617698,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2873417702206,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:56:40 PM",
+        "value": 53.676446348277345,
+        "trend": 1.000110800935937,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2873417702206,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:57:40 PM",
+        "value": 53.682771333493754,
+        "trend": 1.0001178353942317,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.7430186082109,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:58:40 PM",
+        "value": 53.68984208696235,
+        "trend": 1.0001317136446752,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.41097502083814,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "6:59:40 PM",
+        "value": 53.69622273944016,
+        "trend": 1.0001188428244485,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.41097502083814,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:00:41 PM",
+        "value": 53.70265062696488,
+        "trend": 1.0001197083741982,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.62291773618244,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:01:41 PM",
+        "value": 53.709668457856964,
+        "trend": 1.0001306794135885,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.57876300381905,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:02:41 PM",
+        "value": 53.71592610289469,
+        "trend": 1.0001165087258477,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16900708748669,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:03:40 PM",
+        "value": 53.72270038275208,
+        "trend": 1.000126113060853,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.91787134836997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:04:40 PM",
+        "value": 53.730582735786086,
+        "trend": 1.0001467229491043,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.97792178438418,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:05:40 PM",
+        "value": 53.73801800607359,
+        "trend": 1.0001383806001893,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.08389314205635,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:06:40 PM",
+        "value": 53.7467628837445,
+        "trend": 1.0001627316748065,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.19869544620119,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:07:41 PM",
+        "value": 53.75452549601429,
+        "trend": 1.0001444293917119,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.87371661600655,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:08:40 PM",
+        "value": 53.76197637150882,
+        "trend": 1.0001386092691877,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.66707246854584,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:09:40 PM",
+        "value": 53.769578831942354,
+        "trend": 1.0001414096159895,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.65294295418956,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:10:41 PM",
+        "value": 53.7771418331803,
+        "trend": 1.0001406557648813,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.62821630406606,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:11:42 PM",
+        "value": 53.78455967825516,
+        "trend": 1.000137936766849,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49928448556493,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:12:41 PM",
+        "value": 53.7925000995838,
+        "trend": 1.00014763384466,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.84545758729398,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:13:40 PM",
+        "value": 53.80041857075687,
+        "trend": 1.0001472039997845,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.81896474787594,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:14:41 PM",
+        "value": 53.80778060458901,
+        "trend": 1.0001368397129191,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.84545758729396,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:15:41 PM",
+        "value": 53.816008212678376,
+        "trend": 1.0001529074047826,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.8472237765885,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:16:41 PM",
+        "value": 53.82438182935486,
+        "trend": 1.0001555971346554,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.71652576879283,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:17:41 PM",
+        "value": 53.83220194226875,
+        "trend": 1.0001452894143528,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.18137041254842,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:18:41 PM",
+        "value": 53.839607638934126,
+        "trend": 1.0001375700119663,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.5045830534485,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:19:41 PM",
+        "value": 53.8469977614064,
+        "trend": 1.0001372618188793,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.5045830534485,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:20:41 PM",
+        "value": 53.85440607398623,
+        "trend": 1.000137580791647,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.48338878191407,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:21:41 PM",
+        "value": 53.8617833141074,
+        "trend": 1.000136984894254,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.651176764895,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:22:41 PM",
+        "value": 53.869548408275705,
+        "trend": 1.0001441670455473,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.60878822182613,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:23:41 PM",
+        "value": 53.87723900509109,
+        "trend": 1.0001427633429762,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.60878822182613,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:24:41 PM",
+        "value": 53.884943891212714,
+        "trend": 1.0001430081842333,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.43393548166706,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:25:41 PM",
+        "value": 53.89226824559791,
+        "trend": 1.0001359258051745,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26261512009707,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:26:41 PM",
+        "value": 53.89921424373303,
+        "trend": 1.0001288867283051,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26261512009707,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:27:41 PM",
+        "value": 53.90616150488327,
+        "trend": 1.0001288935515613,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49751829627036,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:28:41 PM",
+        "value": 53.913636751970756,
+        "trend": 1.0001386714779683,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49751829627036,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:29:41 PM",
+        "value": 53.92111577859416,
+        "trend": 1.0001387223543796,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61408678970973,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:30:41 PM",
+        "value": 53.928946568273766,
+        "trend": 1.0001452267737145,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61585297900427,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:31:41 PM",
+        "value": 53.936698345907615,
+        "trend": 1.0001437405721254,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.48692116050314,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:32:41 PM",
+        "value": 53.94404298112414,
+        "trend": 1.00013617139057,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.43393548166706,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:33:41 PM",
+        "value": 53.951383711823254,
+        "trend": 1.0001360804695651,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.4462988067288,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:34:41 PM",
+        "value": 53.958599872514526,
+        "trend": 1.0001337530234593,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.44806499602333,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:35:41 PM",
+        "value": 53.96595878997312,
+        "trend": 1.000136380808175,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.67766960431302,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:36:41 PM",
+        "value": 53.973826016753044,
+        "trend": 1.0001457812842822,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.40744264224901,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:37:41 PM",
+        "value": 53.98108149563489,
+        "trend": 1.0001344258767129,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.71475957949826,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:38:41 PM",
+        "value": 53.98901613393125,
+        "trend": 1.0001469892428332,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.71475957949826,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:39:41 PM",
+        "value": 53.996483958026246,
+        "trend": 1.0001383211740045,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50988162133208,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:40:41 PM",
+        "value": 54.00393937522468,
+        "trend": 1.000138072271599,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50988162133208,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:41:41 PM",
+        "value": 54.011380966939186,
+        "trend": 1.0001377972014744,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50988162133208,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:42:41 PM",
+        "value": 54.01889868226255,
+        "trend": 1.0001391876154393,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.55050397510641,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:43:41 PM",
+        "value": 54.026400750515315,
+        "trend": 1.00013887858575,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.78717334057423,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:44:41 PM",
+        "value": 54.03471196471876,
+        "trend": 1.000153836163209,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.78010858339609,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:45:41 PM",
+        "value": 54.04270375825057,
+        "trend": 1.000147901103591,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.63704725053869,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:46:41 PM",
+        "value": 54.05006165782016,
+        "trend": 1.0001361497308223,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61055441112065,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:47:41 PM",
+        "value": 54.057635685294024,
+        "trend": 1.000140129858164,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61055441112065,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:48:41 PM",
+        "value": 54.06479552496885,
+        "trend": 1.0001324482579392,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.56816586805178,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:49:41 PM",
+        "value": 54.072226828947514,
+        "trend": 1.000137451809565,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61055441112065,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:50:41 PM",
+        "value": 54.07982425416216,
+        "trend": 1.0001405051291614,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.7165257687928,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:51:41 PM",
+        "value": 54.08704044304831,
+        "trend": 1.0001334358790117,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49398591768127,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:52:41 PM",
+        "value": 54.094045127553485,
+        "trend": 1.0001295076315473,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.41274121013262,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:53:41 PM",
+        "value": 54.10101787300024,
+        "trend": 1.0001289004257365,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.41274121013262,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:54:41 PM",
+        "value": 54.10795749923893,
+        "trend": 1.0001282716390842,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.45512975320149,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:55:41 PM",
+        "value": 54.114958177554335,
+        "trend": 1.0001293835258058,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.74655098679993,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:56:41 PM",
+        "value": 54.122579833717765,
+        "trend": 1.000140841948698,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.74655098679993,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:57:41 PM",
+        "value": 54.1301729393579,
+        "trend": 1.0001402945991018,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.85428853376662,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:58:41 PM",
+        "value": 54.137942920852275,
+        "trend": 1.000143542521157,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.85428853376662,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "7:59:41 PM",
+        "value": 54.14572008367164,
+        "trend": 1.0001436545683078,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.86665185882838,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:00:41 PM",
+        "value": 54.15349578320067,
+        "trend": 1.0001436069095953,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.7165257687928,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:01:41 PM",
+        "value": 54.16090383567653,
+        "trend": 1.0001367973086266,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.7165257687928,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:02:41 PM",
+        "value": 54.16827326345848,
+        "trend": 1.000136065450538,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.50988162133208,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:03:41 PM",
+        "value": 54.17514623965874,
+        "trend": 1.000126881951116,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.70416244373105,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:04:41 PM",
+        "value": 54.1824145540245,
+        "trend": 1.000134163262497,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.43393548166704,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:05:41 PM",
+        "value": 54.18887839626071,
+        "trend": 1.00011929778858,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.22905752350086,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:06:41 PM",
+        "value": 54.194993405315536,
+        "trend": 1.0001128462008404,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.20433087337734,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:07:41 PM",
+        "value": 54.20100175177352,
+        "trend": 1.0001108653416202,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.45512975320146,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:08:41 PM",
+        "value": 54.20752161702019,
+        "trend": 1.0001202904934587,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.31913317752218,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:09:41 PM",
+        "value": 54.21368830882084,
+        "trend": 1.0001137608143058,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.31913317752218,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:10:42 PM",
+        "value": 54.21980360611895,
+        "trend": 1.0001127998756194,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.31913317752218,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:11:41 PM",
+        "value": 54.225966029092525,
+        "trend": 1.000113656313076,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.28910795951508,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:12:41 PM",
+        "value": 54.23190975841617,
+        "trend": 1.0001096103907205,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.28910795951508,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:13:42 PM",
+        "value": 54.23779911771724,
+        "trend": 1.0001085958308917,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2749784451588,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:14:41 PM",
+        "value": 54.2436016334832,
+        "trend": 1.0001069828765243,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25731655221344,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:15:41 PM",
+        "value": 54.2493083535361,
+        "trend": 1.0001052054045279,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25731655221344,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:16:41 PM",
+        "value": 54.254759335569396,
+        "trend": 1.000100480212536,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16900708748663,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:17:41 PM",
+        "value": 54.2603927496114,
+        "trend": 1.0001038326242895,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.27674463445332,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:18:41 PM",
+        "value": 54.26600404361667,
+        "trend": 1.0001034141796792,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25731655221342,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:19:41 PM",
+        "value": 54.27147785378614,
+        "trend": 1.0001008699694391,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.29264033810415,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:20:41 PM",
+        "value": 54.27697167811315,
+        "trend": 1.0001012285742763,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25731655221342,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:21:41 PM",
+        "value": 54.282326980670724,
+        "trend": 1.0000986662002689,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.11248903006147,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:22:41 PM",
+        "value": 54.28705388796977,
+        "trend": 1.0000870800417367,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.97472626508767,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:23:41 PM",
+        "value": 54.29164638465011,
+        "trend": 1.00008459653548,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.79810733563406,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:24:41 PM",
+        "value": 54.29577367450991,
+        "trend": 1.000076020716531,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.62502078476953,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:25:41 PM",
+        "value": 54.2990339734049,
+        "trend": 1.0000600470105563,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.65857838136571,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:26:41 PM",
+        "value": 54.302681600430034,
+        "trend": 1.000067176646769,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.62325459547499,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:27:41 PM",
+        "value": 54.30603808273772,
+        "trend": 1.00006181061798,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.50491991274107,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:28:41 PM",
+        "value": 54.30953779861024,
+        "trend": 1.000064444323248,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.8987801254226,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:29:41 PM",
+        "value": 54.313139202273845,
+        "trend": 1.000066312544897,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.65681219207117,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:30:41 PM",
+        "value": 54.31644679988909,
+        "trend": 1.0000608986640034,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.73982308891438,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:31:41 PM",
+        "value": 54.31990296428584,
+        "trend": 1.0000636301636128,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.90584488260076,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:32:41 PM",
+        "value": 54.323295479643974,
+        "trend": 1.000062454370737,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.96942769720407,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:33:41 PM",
+        "value": 54.32711688725112,
+        "trend": 1.000070345651408,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.07186667628716,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:34:41 PM",
+        "value": 54.33109839722711,
+        "trend": 1.0000732877097869,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.8387296894084,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:35:41 PM",
+        "value": 54.33448770975332,
+        "trend": 1.0000623825511759,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.87405347529912,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:36:41 PM",
+        "value": 54.337882948087525,
+        "trend": 1.0000624877214697,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.97472626508767,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:37:41 PM",
+        "value": 54.34143191227413,
+        "trend": 1.0000653128902721,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.97472626508767,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:38:41 PM",
+        "value": 54.34442604279177,
+        "trend": 1.0000550984840162,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.90407869330622,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:39:41 PM",
+        "value": 54.34767051275172,
+        "trend": 1.0000597019822677,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.65681219207117,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:40:41 PM",
+        "value": 54.34982236239492,
+        "trend": 1.0000395941467757,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.50315372344654,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:41:41 PM",
+        "value": 54.352010804890654,
+        "trend": 1.0000402658628973,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78044544268869,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:42:41 PM",
+        "value": 54.3547417014854,
+        "trend": 1.0000502446285668,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.7910425784559,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:43:41 PM",
+        "value": 54.35742208826789,
+        "trend": 1.0000493128418715,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.7910425784559,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:44:41 PM",
+        "value": 54.36002857235506,
+        "trend": 1.0000479508406954,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.7910425784559,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:45:41 PM",
+        "value": 54.362561369578756,
+        "trend": 1.0000465930075868,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.05807402122345,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:46:41 PM",
+        "value": 54.36337234980924,
+        "trend": 1.0000149179915379,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.17817489325192,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:47:41 PM",
+        "value": 54.36425946290831,
+        "trend": 1.0000163182131778,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.402480933658,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:48:41 PM",
+        "value": 54.3657610412875,
+        "trend": 1.0000276206903953,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.19760297549182,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:49:41 PM",
+        "value": 54.366669493286096,
+        "trend": 1.0000167100024207,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.37422190494541,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:50:41 PM",
+        "value": 54.36784563547448,
+        "trend": 1.0000216335155223,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.44486947672685,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:51:41 PM",
+        "value": 54.36928966814472,
+        "trend": 1.000026560417345,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.52964656286458,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:52:41 PM",
+        "value": 54.37065620123028,
+        "trend": 1.0000251342824948,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.52964656286458,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:53:41 PM",
+        "value": 54.37194568110343,
+        "trend": 1.0000237164669923,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.65681219207117,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:54:41 PM",
+        "value": 54.373444554884415,
+        "trend": 1.0000275670433016,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.65681219207117,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:55:41 PM",
+        "value": 54.375017334415396,
+        "trend": 1.0000289255084693,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.72216119596901,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:56:41 PM",
+        "value": 54.37651912020982,
+        "trend": 1.0000276190402881,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.72216119596901,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:57:41 PM",
+        "value": 54.37795043231824,
+        "trend": 1.0000263222459174,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.7910425784559,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:58:42 PM",
+        "value": 54.37945877826195,
+        "trend": 1.0000277381904195,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59322937746788,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "8:59:42 PM",
+        "value": 54.38045843010668,
+        "trend": 1.0000183828943352,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59146318817334,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:00:41 PM",
+        "value": 54.38138616756576,
+        "trend": 1.0000170601257485,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.43780471954871,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:01:41 PM",
+        "value": 54.38186129383706,
+        "trend": 1.0000087369282908,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.4272075837815,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:02:41 PM",
+        "value": 54.38227361477108,
+        "trend": 1.000007581957002,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.53317894145366,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:03:41 PM",
+        "value": 54.38285032038055,
+        "trend": 1.0000106046616137,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3742219049454,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:04:41 PM",
+        "value": 54.382998829002986,
+        "trend": 1.0000027307988009,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3742219049454,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:05:42 PM",
+        "value": 54.38307351634608,
+        "trend": 1.000001373358305,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3742219049454,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/6/2021",
+        "time": "9:06:42 PM",
+        "value": 54.38307510307246,
+        "trend": 1.0000000291768427,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3742219049454,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:07:41 PM",
+        "value": 54.38300432960223,
+        "trend": 0.9999986986122044,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.37598812694775,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:08:41 PM",
+        "value": 54.38249256606553,
+        "trend": 0.999990589642058,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3459712467982,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:09:41 PM",
+        "value": 54.38233503077228,
+        "trend": 0.9999971031983674,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3459712467982,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:10:41 PM",
+        "value": 54.38211208484072,
+        "trend": 0.9999959003979613,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3459712467982,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:11:42 PM",
+        "value": 54.38182061040732,
+        "trend": 0.9999946402516888,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3459712467982,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:12:41 PM",
+        "value": 54.38146143223622,
+        "trend": 0.9999933952529161,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.17154176969512,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:13:42 PM",
+        "value": 54.381428617860294,
+        "trend": 0.9999993965889282,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.17330049279396,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:14:42 PM",
+        "value": 54.38133000085721,
+        "trend": 0.9999981865683637,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.17330049279396,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:15:42 PM",
+        "value": 54.381170370340605,
+        "trend": 0.9999970646080815,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.17330049279396,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:16:41 PM",
+        "value": 54.380493819123835,
+        "trend": 0.9999875590905425,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.52104128321405,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:17:42 PM",
+        "value": 54.3793440433425,
+        "trend": 0.99997885683449,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.5157266852198,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:18:42 PM",
+        "value": 54.37822204663096,
+        "trend": 0.9999793672260805,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.5157266852198,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:19:42 PM",
+        "value": 54.377042394487624,
+        "trend": 0.9999783065334074,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.51218394842647,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:20:42 PM",
+        "value": 54.37610003802116,
+        "trend": 0.9999826699573023,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.5157266852198,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:21:42 PM",
+        "value": 54.37427507699509,
+        "trend": 0.9999664381773464,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.81604031305561,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:22:42 PM",
+        "value": 54.37215156553455,
+        "trend": 0.9999609463950088,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59905672353595,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:23:42 PM",
+        "value": 54.37051450113692,
+        "trend": 0.999969891491315,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.88918232856176,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:24:42 PM",
+        "value": 54.36816729899924,
+        "trend": 0.9999568295029169,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.90703878709594,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:25:42 PM",
+        "value": 54.36551320667723,
+        "trend": 0.9999511829724291,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9964209294884,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:26:42 PM",
+        "value": 54.36265003823937,
+        "trend": 0.9999473348402512,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78040175684015,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:27:42 PM",
+        "value": 54.360336026044884,
+        "trend": 0.9999574337860119,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78040175684015,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:28:42 PM",
+        "value": 54.35795920665851,
+        "trend": 0.9999562765876717,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.79999968130677,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:29:42 PM",
+        "value": 54.35550476212389,
+        "trend": 0.9999548466393801,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78752734701679,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:30:42 PM",
+        "value": 54.35298949330618,
+        "trend": 0.9999537255917553,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10748643104895,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:31:42 PM",
+        "value": 54.35002523983063,
+        "trend": 0.9999454629174368,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10748643104895,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:32:42 PM",
+        "value": 54.34667649292416,
+        "trend": 0.9999383855501135,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.99642092948838,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:33:42 PM",
+        "value": 54.34350894885701,
+        "trend": 0.9999417159563094,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10748643104895,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:34:42 PM",
+        "value": 54.340033844801276,
+        "trend": 0.9999360530057233,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.0877625117456,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:35:42 PM",
+        "value": 54.33653965975015,
+        "trend": 0.9999356977755829,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.37598812694776,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:36:42 PM",
+        "value": 54.33425933057832,
+        "trend": 0.9999580332279878,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.30362662596322,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:37:42 PM",
+        "value": 54.332214572874165,
+        "trend": 0.9999623670639971,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.384820218303,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:38:42 PM",
+        "value": 54.330044086592906,
+        "trend": 0.9999600515771662,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.77862052493961,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:39:42 PM",
+        "value": 54.327045069858215,
+        "trend": 0.9999448000312698,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.11645452600737,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:40:42 PM",
+        "value": 54.32324605647695,
+        "trend": 0.9999300714151417,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.0859698296092,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:41:42 PM",
+        "value": 54.319458453144954,
+        "trend": 0.9999302765646947,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.0859698296092,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:42:42 PM",
+        "value": 54.315616641847875,
+        "trend": 0.9999292737555476,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.89275308831185,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:43:42 PM",
+        "value": 54.31215078789349,
+        "trend": 0.9999361904702797,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.89275308831185,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:44:42 PM",
+        "value": 54.308637668436496,
+        "trend": 0.9999353161418572,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.84813769689116,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:45:42 PM",
+        "value": 54.30517777140953,
+        "trend": 0.9999362919569427,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.75725090857973,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:46:42 PM",
+        "value": 54.30187661057706,
+        "trend": 0.9999392109377421,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.8998954056877,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:47:42 PM",
+        "value": 54.29821719440745,
+        "trend": 0.9999326097660334,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.08417721436264,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:48:42 PM",
+        "value": 54.29410597676969,
+        "trend": 0.9999242844820662,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78574585007908,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:49:42 PM",
+        "value": 54.29061224037905,
+        "trend": 0.9999356516452791,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.81069283898971,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:50:42 PM",
+        "value": 54.28702530828831,
+        "trend": 0.9999339308962872,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.81069283898971,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:51:42 PM",
+        "value": 54.28340138473434,
+        "trend": 0.9999332451256375,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9964209294884,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:52:42 PM",
+        "value": 54.2793285742394,
+        "trend": 0.9999249713468382,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59195914522063,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:53:42 PM",
+        "value": 54.27611839636583,
+        "trend": 0.9999408581874926,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59195914522063,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:54:42 PM",
+        "value": 54.27287998985891,
+        "trend": 0.9999403345964559,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59195914522063,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:55:42 PM",
+        "value": 54.269614522171025,
+        "trend": 0.9999398324229617,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.59195914522063,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:56:42 PM",
+        "value": 54.26554067946236,
+        "trend": 0.999924933266165,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78040175684016,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:57:42 PM",
+        "value": 54.261795241347535,
+        "trend": 0.9999309794380019,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.78040175684016,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:58:42 PM",
+        "value": 54.258049580643274,
+        "trend": 0.999930970571696,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.74122995309897,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "9:59:42 PM",
+        "value": 54.254336936444695,
+        "trend": 0.999931574315198,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.74122995309897,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:00:42 PM",
+        "value": 54.25071867620314,
+        "trend": 0.9999333092901718,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.94098438678589,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:01:42 PM",
+        "value": 54.246192313860135,
+        "trend": 0.9999165658547304,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.68608767217326,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:02:42 PM",
+        "value": 54.24252505829778,
+        "trend": 0.9999323960741587,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9409843867859,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:03:42 PM",
+        "value": 54.23826584185033,
+        "trend": 0.9999214782784748,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.98210859269919,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:04:42 PM",
+        "value": 54.23389430740982,
+        "trend": 0.9999194012866626,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.96243609657445,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:05:43 PM",
+        "value": 54.22954174500036,
+        "trend": 0.9999197446086983,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10210637732182,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:06:42 PM",
+        "value": 54.224856259722294,
+        "trend": 0.9999135990250462,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.1523436489191,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:07:42 PM",
+        "value": 54.220034301856266,
+        "trend": 0.9999110747690518,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.94277166294809,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:08:42 PM",
+        "value": 54.215377699986654,
+        "trend": 0.9999141165820057,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.09493390926492,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:09:42 PM",
+        "value": 54.21063541425673,
+        "trend": 0.9999125287707822,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.92311528686471,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:10:42 PM",
+        "value": 54.2062408467819,
+        "trend": 0.9999189353262281,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.92847531789326,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:11:42 PM",
+        "value": 54.20144833948299,
+        "trend": 0.9999115875363418,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.14157409821078,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:12:42 PM",
+        "value": 54.19654490589629,
+        "trend": 0.9999095331630995,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.14157409821078,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:13:42 PM",
+        "value": 54.191451248956994,
+        "trend": 0.9999060150984138,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.03938356146372,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:14:42 PM",
+        "value": 54.18673465580305,
+        "trend": 0.9999129642582872,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.03938356146372,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:15:43 PM",
+        "value": 54.181899981815555,
+        "trend": 0.9999107775359005,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26556977321594,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:16:43 PM",
+        "value": 54.176597685265136,
+        "trend": 0.9999021389698,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.29076735719727,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:17:43 PM",
+        "value": 54.17033946374761,
+        "trend": 0.9998844847815309,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.37365237400923,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:18:42 PM",
+        "value": 54.16493561391428,
+        "trend": 0.9999002433825074,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.68430994643849,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:19:42 PM",
+        "value": 54.16108376344466,
+        "trend": 0.9999288866417736,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10210637732179,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:20:42 PM",
+        "value": 54.156748143397195,
+        "trend": 0.999919949533019,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.82673705213605,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:21:42 PM",
+        "value": 54.15233772102517,
+        "trend": 0.9999185619055201,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.86597887063367,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:22:42 PM",
+        "value": 54.147260939450305,
+        "trend": 0.999906250001597,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.3393999675836,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:23:42 PM",
+        "value": 54.14177392088421,
+        "trend": 0.9998986648914295,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.3393999675836,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:24:42 PM",
+        "value": 54.13627459960429,
+        "trend": 0.999898427390134,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.15234364891907,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:25:42 PM",
+        "value": 54.13163784519198,
+        "trend": 0.9999143503233903,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9767425666136,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:26:42 PM",
+        "value": 54.126257366799194,
+        "trend": 0.999900603813094,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2799667775939,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:27:42 PM",
+        "value": 54.12086902035167,
+        "trend": 0.99990044856767,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.15054855625145,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:28:42 PM",
+        "value": 54.115473806721475,
+        "trend": 0.9999003117701571,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.2799667775939,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:29:42 PM",
+        "value": 54.110072714629176,
+        "trend": 0.9999001932033047,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.37365237400921,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:30:41 PM",
+        "value": 54.10480972203415,
+        "trend": 0.9999027354366573,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.18287048270743,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:31:41 PM",
+        "value": 54.0996158206738,
+        "trend": 0.9999040029641166,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.24398233792517,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:32:41 PM",
+        "value": 54.09406772687696,
+        "trend": 0.9998974467061794,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.53623210622402,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:33:41 PM",
+        "value": 54.08803155681654,
+        "trend": 0.9998884134561502,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.6449236792466,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:34:41 PM",
+        "value": 54.08221409352684,
+        "trend": 0.9998924445367624,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.3736523740092,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:35:41 PM",
+        "value": 54.07658294822615,
+        "trend": 0.9998958780553815,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.44584237578748,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:36:41 PM",
+        "value": 54.07079154622819,
+        "trend": 0.9998929036991205,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.48017052634928,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:37:41 PM",
+        "value": 54.064918563113764,
+        "trend": 0.9998913834448048,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.62679142339684,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:38:41 PM",
+        "value": 54.05888860293356,
+        "trend": 0.9998884681538331,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.62679142339684,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:39:41 PM",
+        "value": 54.05263340865928,
+        "trend": 0.9998842892549971,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.65399235933286,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:40:41 PM",
+        "value": 54.04622302286024,
+        "trend": 0.9998814047458043,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.74659020301031,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:41:41 PM",
+        "value": 54.03958127560343,
+        "trend": 0.9998771098721552,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.82844164896973,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:42:41 PM",
+        "value": 54.032929093940076,
+        "trend": 0.9998769016800958,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.57786830061792,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:43:41 PM",
+        "value": 54.0268750517364,
+        "trend": 0.9998879564312874,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.55252025397071,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:44:41 PM",
+        "value": 54.020822714465645,
+        "trend": 0.9998879754332458,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:45:41 PM",
+        "value": 54.014479019487794,
+        "trend": 0.9998825694489811,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:46:41 PM",
+        "value": 54.00813563107054,
+        "trend": 0.9998825613329535,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.69936130054548,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:47:41 PM",
+        "value": 54.001765603965154,
+        "trend": 0.9998820543047644,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.55433038745879,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:48:41 PM",
+        "value": 53.99557206166595,
+        "trend": 0.999885308522232,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61954042599152,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:49:41 PM",
+        "value": 53.98938293327038,
+        "trend": 0.9998853771122471,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61954042599152,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:50:41 PM",
+        "value": 53.98319904497344,
+        "trend": 0.9998854610302811,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.61954042599152,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:51:41 PM",
+        "value": 53.97702121459234,
+        "trend": 0.9998855601281438,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:52:41 PM",
+        "value": 53.97070328553014,
+        "trend": 0.9998829515056586,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:53:41 PM",
+        "value": 53.964391456242836,
+        "trend": 0.9998830508238161,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.8120602817221,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:54:41 PM",
+        "value": 53.95781245583827,
+        "trend": 0.9998780862671286,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:55:41 PM",
+        "value": 53.95151228982438,
+        "trend": 0.999883239039406,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.68665370430195,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:56:41 PM",
+        "value": 53.94522058693888,
+        "trend": 0.9998833822701447,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.83936564065682,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:57:42 PM",
+        "value": 53.93860446682249,
+        "trend": 0.9998773548417375,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.81206028172208,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:58:41 PM",
+        "value": 53.932054370911395,
+        "trend": 0.9998785638602288,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.81206028172208,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "10:59:41 PM",
+        "value": 53.92551210847484,
+        "trend": 0.9998786943588026,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.81206028172208,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:00:41 PM",
+        "value": 53.91897843059958,
+        "trend": 0.9998788388349077,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.81206028172208,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:01:41 PM",
+        "value": 53.91245407840363,
+        "trend": 0.9998789971103709,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.80842073058366,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:02:41 PM",
+        "value": 53.90594772330727,
+        "trend": 0.9998793162877191,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.57424633627203,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:03:41 PM",
+        "value": 53.89991297934049,
+        "trend": 0.9998880504986619,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.10389966163558,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:04:41 PM",
+        "value": 53.89467321064756,
+        "trend": 0.999902787065817,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.07163078023899,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:05:41 PM",
+        "value": 53.88976868093,
+        "trend": 0.9999089978763134,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.37184900857116,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:06:41 PM",
+        "value": 53.88413884447858,
+        "trend": 0.9998955305136907,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25837288552354,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:07:42 PM",
+        "value": 53.878530993132124,
+        "trend": 0.9998959276056607,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.43139572474257,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:08:41 PM",
+        "value": 53.87262800665273,
+        "trend": 0.9998904389861679,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.74659020301033,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:09:41 PM",
+        "value": 53.865350739940524,
+        "trend": 0.9998649171762828,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.17923623727856,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:10:41 PM",
+        "value": 53.85762637107324,
+        "trend": 0.9998565985599058,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.39609264295943,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:11:41 PM",
+        "value": 53.85047552340017,
+        "trend": 0.9998672268320219,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.36479096466749,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:12:41 PM",
+        "value": 53.842923870954635,
+        "trend": 0.9998597662811305,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.26549542713978,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:13:41 PM",
+        "value": 53.83559131946597,
+        "trend": 0.9998638158747426,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.11143762241302,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:14:41 PM",
+        "value": 53.82888197575211,
+        "trend": 0.9998753734555632,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.10960654034227,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:15:41 PM",
+        "value": 53.82218736883193,
+        "trend": 0.9998756316929787,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.21775866179124,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:16:42 PM",
+        "value": 53.81499573266364,
+        "trend": 0.9998663815701319,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.17373552579345,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:17:42 PM",
+        "value": 53.807909950656416,
+        "trend": 0.999868330715059,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.11693128296757,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:18:42 PM",
+        "value": 53.80095946167201,
+        "trend": 0.9998708277465008,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.17373552579345,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:19:41 PM",
+        "value": 53.79389992283342,
+        "trend": 0.9998687841460594,
+        "mode": "testMain"
+    },
+    {
+        "price": 97.17373552579345,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:20:41 PM",
+        "value": 53.78685376325038,
+        "trend": 0.9998690156394471,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.8994916814121,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:21:42 PM",
+        "value": 53.780524619343026,
+        "trend": 0.9998823291666173,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.75749573282958,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:22:41 PM",
+        "value": 53.77506751069438,
+        "trend": 0.9998985300220242,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.3321920368676,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:23:41 PM",
+        "value": 53.770293432042216,
+        "trend": 0.9999112213359619,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.74656967590728,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:24:41 PM",
+        "value": 53.76649580355948,
+        "trend": 0.9999293731121713,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.15772932910852,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:25:41 PM",
+        "value": 53.76183016456373,
+        "trend": 0.9999132240454578,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.7964358258073,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:26:41 PM",
+        "value": 53.7580070825304,
+        "trend": 0.9999288885437562,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.80178170849629,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:27:41 PM",
+        "value": 53.75390352505175,
+        "trend": 0.9999236661159638,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.25837288552356,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:28:41 PM",
+        "value": 53.7491509872775,
+        "trend": 0.9999115871134451,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.98210859269916,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:29:41 PM",
+        "value": 53.74462030900335,
+        "trend": 0.999915706979721,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.98568627678269,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:30:41 PM",
+        "value": 53.740548200774306,
+        "trend": 0.9999242322635152,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.98747521884356,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:31:41 PM",
+        "value": 53.73645888142231,
+        "trend": 0.9999239062590742,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.08596982960916,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:32:41 PM",
+        "value": 53.73226069465284,
+        "trend": 0.9999218745176578,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.44764851152739,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:33:41 PM",
+        "value": 53.72720165582715,
+        "trend": 0.9999058472738671,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49643975993126,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:34:41 PM",
+        "value": 53.722178106963305,
+        "trend": 0.9999064989668357,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.52175836551316,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:35:41 PM",
+        "value": 53.717671027189404,
+        "trend": 0.9999161039270424,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.27816691655079,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:36:41 PM",
+        "value": 53.71342769803428,
+        "trend": 0.999921006829336,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.21341670621628,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:37:41 PM",
+        "value": 53.709148936132216,
+        "trend": 0.9999203409261811,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.21341670621628,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:38:41 PM",
+        "value": 53.70491364566661,
+        "trend": 0.9999211439661677,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16132011776115,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:39:41 PM",
+        "value": 53.70072212498447,
+        "trend": 0.9999219527525957,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.21341670621628,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:40:41 PM",
+        "value": 53.696574654246646,
+        "trend": 0.9999227669466311,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26556977321592,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:41:41 PM",
+        "value": 53.69235631583137,
+        "trend": 0.9999214412009995,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26556977321592,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:42:41 PM",
+        "value": 53.68818132937399,
+        "trend": 0.9999222424429872,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.55433038745878,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:43:41 PM",
+        "value": 53.683414424831675,
+        "trend": 0.9999112112866504,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.55433038745878,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:44:41 PM",
+        "value": 53.679586236299606,
+        "trend": 0.9999286895482882,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.14516368038254,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:45:41 PM",
+        "value": 53.67553882103872,
+        "trend": 0.9999246004758109,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.17388999023457,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:46:41 PM",
+        "value": 53.67102726313548,
+        "trend": 0.9999159475991795,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.49643975993128,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:47:41 PM",
+        "value": 53.66655477059662,
+        "trend": 0.9999166684006824,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26556977321592,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:48:41 PM",
+        "value": 53.6626299544496,
+        "trend": 0.9999268666273846,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.26556977321592,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:49:41 PM",
+        "value": 53.65874998698332,
+        "trend": 0.9999276970310703,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.1200422326394,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:50:41 PM",
+        "value": 53.65523676308637,
+        "trend": 0.9999345265423105,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.04654773911926,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:51:41 PM",
+        "value": 53.65177608504751,
+        "trend": 0.9999355015792001,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.11824834584475,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:52:41 PM",
+        "value": 53.64836414744757,
+        "trend": 0.9999364058778869,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.16311561265667,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:53:42 PM",
+        "value": 53.645247318600816,
+        "trend": 0.9999419026302798,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.00715798350335,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:54:42 PM",
+        "value": 53.64218204479652,
+        "trend": 0.9999428602913117,
+        "mode": "testMain"
+    },
+    {
+        "price": 96.00715798350335,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:55:42 PM",
+        "value": 53.639744336546194,
+        "trend": 0.999954556131809,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.66120552150997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:56:42 PM",
+        "value": 53.63755905909704,
+        "trend": 0.9999592601069193,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.66120552150997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:57:42 PM",
+        "value": 53.63543367720462,
+        "trend": 0.9999603751190451,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.77149625980091,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:58:42 PM",
+        "value": 53.633121932063055,
+        "trend": 0.9999568989195562,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.64521668555452,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/6/2021",
+        "time": "11:59:42 PM",
+        "value": 53.631006474118905,
+        "trend": 0.9999605568747829,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.3777544143682,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:00:42 AM",
+        "value": 53.629692491863345,
+        "trend": 0.9999754995786589,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.48916256358679,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:01:42 AM",
+        "value": 53.62841329718202,
+        "trend": 0.999976147640945,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.41662929574355,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:02:42 AM",
+        "value": 53.62714463275453,
+        "trend": 0.9999763434278679,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.55116851330341,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:03:42 AM",
+        "value": 53.62563954342904,
+        "trend": 0.9999719341886315,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.55116851330341,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:04:42 AM",
+        "value": 53.62383909562109,
+        "trend": 0.999966425616118,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.83565282595931,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:05:42 AM",
+        "value": 53.621798945376725,
+        "trend": 0.9999619544165659,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.88918232856179,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:06:42 AM",
+        "value": 53.62001626455002,
+        "trend": 0.9999667545501686,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.8784716447065,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:07:42 AM",
+        "value": 53.617782085424096,
+        "trend": 0.99995833311361,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9821085926992,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:08:42 AM",
+        "value": 53.61559925900435,
+        "trend": 0.9999592891325443,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9821085926992,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:09:42 AM",
+        "value": 53.61346762640686,
+        "trend": 0.999960242305841,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.77683935928911,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:10:42 AM",
+        "value": 53.61184379093337,
+        "trend": 0.9999697121722325,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.77683935928911,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:11:42 AM",
+        "value": 53.61027564338679,
+        "trend": 0.9999707499791894,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9821085926992,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:12:42 AM",
+        "value": 53.60830619663688,
+        "trend": 0.999963263633207,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9821085926992,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:13:42 AM",
+        "value": 53.606387147420016,
+        "trend": 0.999964202390394,
+        "mode": "testMain"
+    },
+    {
+        "price": 95.9821085926992,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/7/2021",
+        "time": "12:14:42 AM",
+        "value": 53.60432364315355,
+        "trend": 0.9999615063730971,
+        "mode": "testMain"
     }
 ]
