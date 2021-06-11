@@ -14,7 +14,7 @@ const binance = new ccxt.binance ({
 const hysteresisSignalUp = true                            //Final signal value used for Hysteresis Control down below
 
 const ALMA200_THRESHOLD = 1;
-const CALLBACK_RATE = 1.012;
+const CALLBACK_RATE = 1.011;
 
 const isDealClosedArray = [];
 let isDealClosed = false;        
@@ -22,7 +22,7 @@ let trailingStopPrice = null;
 
 //IMPORTANT TO-DO!! Solve unhandledPromises issue!!
 
-let fakeBalanceUSDT = 100;         //Fake balance!! It's just a local number. NOT real money!!
+let fakeBalanceUSDT = 17.642;         //Fake balance!! It's just a local number. NOT real money!!
 let fakeBalanceBTCUP = 0;
 let fakeBalanceBTCDOWN = 0;
 let whereIsTheMoney = "USDT"

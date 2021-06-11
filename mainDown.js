@@ -1,4 +1,4 @@
-//Node.js app for buy/sell between 2 leveraged tokens (ex. BTCUP/USDT <==> BTCDOWN/USDT)
+//Node.js app for buy/sell BTCDOWN , ONLY one-way..
 require('dotenv').config();
 
 const fs = require('fs');
@@ -11,9 +11,6 @@ const binance = new ccxt.binance ({
 
 const hysteresisSignalUp = true    
 
-let cycleCounter = 0;
-let kickStarted = false;
-
 const ALMA20_THRESHOLD = 1.0000
 const ALMA200_THRESHOLD = 1.0000
 const CALLBACK_RATE = 1.011;                    //Dynamic Stop-Loss Take-Profit window.
@@ -25,20 +22,10 @@ let trailingStopPrice = null;
 //IMPORTANT TO-DO!! Solve unhandledPromises issue!!
 
 let trailingStopPriceArray = []                 //This array exists only during a trade.. It will be RESET when a sell takes place!
-let trailingStopPriceArrayDOWN = []  
 
 //Trend array and trend vector both have to be declared outside , or their value will get wiped out every time func is run..
-const valueArray_BTCUP = [0,0];      //This is used for calculating Trend Vector. Values are actual prices.
-let trendVector_BTCUP = 1;  
-
 const valueArray_BTCDOWN = [0,0];      //This is used for calculating Trend Vector. Values are actual prices.
-let trendVector_BTCDOWN = 1;  
-
-let valueArray_BTCUP_ALMA200 = [null, null];    //ALMA200 instatanius values
-let trendVector_BTCUP_ALMA200 = null;            //trenVector for ALMA200
-
-let valueArray_BTCUP_ALMA20 = [null, null];     //ALMA200 instatanius values
-let trendVector_BTCUP_ALMA20 = null;            //trenVector for ALMA200
+let trendVector_BTCDOWN = 1;
 
 let valueArray_BTCDOWN_ALMA200 = [null, null];    //ALMA200 instatanius values
 let trendVector_BTCDOWN_ALMA200 = null;            //trenVector for ALMA200
@@ -46,7 +33,6 @@ let trendVector_BTCDOWN_ALMA200 = null;            //trenVector for ALMA200
 let valueArray_BTCDOWN_ALMA20 = [null, null];     //ALMA200 instatanius values
 let trendVector_BTCDOWN_ALMA20 = null;            //trenVector for ALMA200
 
-let mode = null
 
 const greetingMessage = () => {
     console.log("----------------------------------------------------------------------------")
@@ -83,25 +69,21 @@ const main = async() => {
     balanceCheck();
 
     //Fetches OHLCV data
-    const OHLCV = await binance.fetchOHLCV('BTCUP/USDT', '1m')
-    const OHLCV_BTCDOWN = await binance.fetchOHLCV('BTCDOWN/USDT', '1m')
+    const OHLCV = await binance.fetchOHLCV('BTCDOWN/USDT', '1m')
     //console.table(OHLCV);
 
-    //Current DateTime instance
+    //Current DateTime
     const time = new Date()
-
+    console.log("-----TARIH/SAAT---")
+    console.log(time.toLocaleDateString(), time.toLocaleTimeString());
+    console.log("------------------")   
     //console.log(closedValueDataSet)     
 
     //another version of closedValueDataSet , but this is used as a basis for Arnoud Legoux calculation
     const closedValueDataSet_500 = []
     for (let i = OHLCV.length - 1; i >= OHLCV.length - 500; i--) {    
         closedValueDataSet_500.push(OHLCV[i][4]);                          
-    }               
-    
-    const closedValueDataSet_500_DOWN = []
-    for (let i = OHLCV.length - 1; i >= OHLCV.length - 500; i--) {    
-        closedValueDataSet_500.push(OHLCV[i][4]);                          
-    }       
+    }                                                    
 
     //Arnoud Legoux function!!
     function arnoudLegoux(series, windowsize, offset, sigma) {     
@@ -121,74 +103,38 @@ const main = async() => {
 
     let ALMA200_Value = arnoudLegoux(closedValueDataSet_500, 200, 0.85, 6)
     let ALMA20_Value = arnoudLegoux(closedValueDataSet_500, 20, 0.85, 6)
-
-    let ALMA200_Value_DOWN = arnoudLegoux(closedValueDataSet_500_DOWN, 200, 0.85, 6)
-    let ALMA20_Value_DOWN = arnoudLegoux(closedValueDataSet_500_DOWN, 20, 0.85, 6)
             
     const deriveTrend = async() => {
-        //BTCUP_ALMA200---------------------------------------------------------------------------------------------
-        if(valueArray_BTCUP_ALMA200.length === 2) {    //BTCUP_ALMA200 value array
-            valueArray_BTCUP_ALMA200.shift()
-            valueArray_BTCUP_ALMA200.push(ALMA200_Value)    //by this way , valueArray keeps an equilibrium lenght of 2..
+        //Derive current trend of BTCDOWN     
+        if(valueArray_BTCDOWN_ALMA200.length === 2) {    //BTCDOWN_ALMA200 value array
+            valueArray_BTCDOWN_ALMA200.shift()
+            valueArray_BTCDOWN_ALMA200.push(ALMA200_Value)    //by this way , valueArray keeps an equilibrium lenght of 2..
         }
         
-        if(valueArray_BTCUP_ALMA200[0] !== null) {        //BTCUP_ALMA200 trend vector  
-            trendVector_BTCUP_ALMA200 = ( valueArray_BTCUP_ALMA200[1] / valueArray_BTCUP_ALMA200[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
-        } else { trendVector_BTCUP_ALMA200 = null }
-
-        //BTCDOWN_ALMA200---------------------------------------------------------------------------------------------
-        if(valueArray_BTCDOWN_ALMA200.length === 2) {    //BTCUP_ALMA200 value array
-            valueArray_BTCDOWN_ALMA200.shift()
-            valueArray_BTCDOWN_ALMA200.push(ALMA200_Value_DOWN)    //by this way , valueArray keeps an equilibrium lenght of 2..
-        }
-                
-        if(valueArray_BTCDOWN_ALMA200[0] !== null) {        //BTCUP_ALMA200 trend vector  
+        if(valueArray_BTCDOWN_ALMA200[0] !== null) {        //BTCDOWN_ALMA200 trend vector  
             trendVector_BTCDOWN_ALMA200 = ( valueArray_BTCDOWN_ALMA200[1] / valueArray_BTCDOWN_ALMA200[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
         } else { trendVector_BTCDOWN_ALMA200 = null }
         
-        //BTCUP_ALMA20--------------------------------------------------------------------------------------------
-        if(valueArray_BTCUP_ALMA20.length === 2) {    //BTCUP_ALMA200 value array
-            valueArray_BTCUP_ALMA20.shift()
-            valueArray_BTCUP_ALMA20.push(ALMA20_Value)    //by this way , valueArray keeps an equilibrium lenght of 2..
-        }
-        
-        if(valueArray_BTCUP_ALMA20[0] !== null) {        //BTCUP_ALMA200 trend vector  
-            trendVector_BTCUP_ALMA20 = ( valueArray_BTCUP_ALMA20[1] / valueArray_BTCUP_ALMA20[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
-        } else { trendVector_BTCUP_ALMA20 = null }
-        //---------------------------------------------------------------------------------------
-
-        //BTCDOWN_ALMA20--------------------------------------------------------------------------------------------
-        if(valueArray_BTCDOWN_ALMA20.length === 2) {    //BTCUP_ALMA200 value array
-            valueArray_BTCDOWN_ALMA20.shift()
-            valueArray_BTCDOWN_ALMA20.push(ALMA20_Value_DOWN)    //by this way , valueArray keeps an equilibrium lenght of 2..
-        }
-        
-        if(valueArray_BTCDOWN_ALMA20[0] !== null) {        //BTCUP_ALMA200 trend vector  
-            trendVector_BTCDOWN_ALMA20 = ( valueArray_BTCDOWN_ALMA20[1] / valueArray_BTCDOWN_ALMA20[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
-        } else { trendVector_BTCDOWN_ALMA20 = null }
-        //---------------------------------------------------------------------------------------
-
-        //BTCUP Real-Time-------------------------------------------------------------------------------------------
-        if(valueArray_BTCUP.length === 2) {    //BTCUP_ALMA200 value array
-            valueArray_BTCUP.shift()
-            valueArray_BTCUP.push(OHLCV[OHLCV.length - 1][4])    //by this way , valueArray keeps an equilibrium lenght of 2..
-        }
-        
-        if(valueArray_BTCUP[0] !== 0) {        //BTCUP trend vector  
-            trendVector_BTCUP = ( valueArray_BTCUP[1] / valueArray_BTCUP[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
-        } else { trendVector_BTCUP = 1 }
-
         //BTCDOWN Real-Time-------------------------------------------------------------------------------------------
-        if(valueArray_BTCDOWN.length === 2) {    //BTCUP_ALMA200 value array
+        if(valueArray_BTCDOWN.length === 2) {    //BTCDOWN_ALMA200 value array
             valueArray_BTCDOWN.shift()
-            valueArray_BTCDOWN.push(OHLCV_BTCDOWN[OHLCV_BTCDOWN.length - 1][4])    //by this way , valueArray keeps an equilibrium lenght of 2..
+            valueArray_BTCDOWN.push(OHLCV[OHLCV.length - 1][4])    //by this way , valueArray keeps an equilibrium lenght of 2..
         }
         
-        if(valueArray_BTCDOWN[0] !== 0) {        //BTCUP trend vector  
+        if(valueArray_BTCDOWN[0] !== 0) {        //BTCDOWN trend vector  
             trendVector_BTCDOWN = ( valueArray_BTCDOWN[1] / valueArray_BTCDOWN[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
         } else { trendVector_BTCDOWN = 1 }
         
-      
+        //BTCDOWN_ALMA20--------------------------------------------------------------------------------------------
+        if(valueArray_BTCDOWN_ALMA20.length === 2) {    //BTCDOWN_ALMA200 value array
+            valueArray_BTCDOWN_ALMA20.shift()
+            valueArray_BTCDOWN_ALMA20.push(ALMA20_Value)    //by this way , valueArray keeps an equilibrium lenght of 2..
+        }
+        
+        if(valueArray_BTCDOWN_ALMA20[0] !== null) {        //BTCDOWN_ALMA200 trend vector  
+            trendVector_BTCDOWN_ALMA20 = ( valueArray_BTCDOWN_ALMA20[1] / valueArray_BTCDOWN_ALMA20[0] );  //Trend vector is calculated as percentages now.(ex. 0.98 , 1.12 etc..)
+        } else { trendVector_BTCDOWN_ALMA20 = null }
+        //---------------------------------------------------------------------------------------
     }
     deriveTrend();
 
@@ -229,9 +175,9 @@ const main = async() => {
                 whereIsTheMoney: whereIsTheMoney,
                 date: time.toLocaleDateString(), 
                 time: time.toLocaleTimeString(),
-                ALMA200_trend: trendVector_BTCUP_ALMA200,
-                ALMA20_trend: trendVector_BTCUP_ALMA20,
-                btcUpRealtimePrice: valueArray_BTCUP,
+                ALMA200_trend: trendVector_BTCDOWN_ALMA200,
+                ALMA20_trend: trendVector_BTCDOWN_ALMA20,
+                btcUpRealtimePrice: valueArray_BTCDOWN,
                 trailingStopPrice: trailingStopPrice,
                 callBackRate: CALLBACK_RATE,
                 isDealClosed: isDealClosed,
@@ -245,34 +191,22 @@ const main = async() => {
             });
         }) 
 
-        const kickStarter = () => {
-            if( kickStarted ) { return }
-            if ( trendVector_BTCUP_ALMA200 === null && trendVector_BTCUP_ALMA20 === null ) {
-                mode = null
-            } else if ( trendVector_BTCUP_ALMA200 < 1  && trendVector_BTCUP_ALMA20 < 1  ) {
-                mode = "DOWN"
-            } else if ( trendVector_BTCUP_ALMA200 > 1 && trendVector_BTCUP_ALMA20 > 1 ) {
-                mode = "UP"
-            }
-        }
-        kickStarter()
-        
         //Trailing-Stop Control!!----------------------------------------------------------------------------------
-        const trailingStopControlUp = async(modefour) => {                        
-            if( modefour !== "UP" ) { return }
-            if( !kickStarted ) { 
-                kickStarted = true 
-                await buyAndSellOrder('BTCUP/USDT', 'buy')   
-                isDealClosed = true                             //false signal like the deal is closed
-            }
-            console.log("UP active..")
+        const trailingStopControl = async() => {                          //This is the new "orderTriggerControl"
+            if( trendVector_BTCDOWN_ALMA200 === null) { return }           //Don't do anything..
 
-            if( trendVector_BTCUP_ALMA200 === null) { return }           //Don't do anything..
-
-            if( trendVector_BTCUP_ALMA200 > 1 && trendVector_BTCUP_ALMA20 > 1 && isDealClosed ) {
+            if( trendVector_BTCDOWN_ALMA200 > ALMA200_THRESHOLD && trendVector_BTCDOWN_ALMA20 > ALMA20_THRESHOLD && isDealClosed ) {
                 isDealClosed = false
-                trailingStopPriceArray.push(valueArray_BTCUP[1])                      
-                await buyAndSellOrder('BTCUP/USDT', 'buy')    
+            }
+
+            if( trendVector_BTCDOWN_ALMA200 > ALMA200_THRESHOLD && !isDealClosed) {      //UpTrend signifies an up-trend in ALMA200 Moving Average
+                trailingStopPriceArray.push(valueArray_BTCDOWN[1])                       //Creates and maintains price array. It gets RESET when trade is over..
+                await buyAndSellOrder('BTCDOWN/USDT', 'buy')                             //Real monies are transferred into BTCDOWN..
+   
+            }
+            
+            if( trendVector_BTCDOWN_ALMA200 < ALMA200_THRESHOLD) {
+                isDealClosed = false;
             }
 
             const findHighestPrice = () => {  //Finds the highest price in the trailingStopPriceArray[]. That value is used for determining Trailing Stop price..
@@ -289,102 +223,26 @@ const main = async() => {
             trailingStopPrice = highestPrice / CALLBACK_RATE;
 
             //Real-Time Trailing Stop-Loss control!! If price is down below Trailing-Stop price , coin gets liquidated!!
-            if (valueArray_BTCUP[1] < trailingStopPrice) {
-                isDealClosed = true
-                trailingStopPriceArray = []                         //Wipes out the array when trade is over
-                await buyAndSellOrder('BTCUP/USDT', 'sell')
-            }
-
-            //Control selector..
-            if( trendVector_BTCUP_ALMA200 < 1 ) {
-                await buyAndSellOrder('BTCDOWN/USDT', 'sell')
-                mode = "DOWN"
-                isDealClosed = false
-            }
-        }
-        trailingStopControlUp(mode);
-        
-
-        //Trailing-Stop Control!!-DOWN----------------------------------------------------------------------------
-        const trailingStopControlDown = async(modefour) => {            
-            if( modefour !== "DOWN" ) { return }
-            if( !kickStarted ) { 
-                kickStarted = true 
-                await buyAndSellOrder('BTCDOWN/USDT', 'buy')   
-                isDealClosed = true                             //false signal like the deal is closed
-            }
-            console.log("UP active..")
-
-            if( trendVector_BTCUP_ALMA200 === null) { return }           //Don't do anything..
-
-            if( trendVector_BTCDOWN_ALMA200 > 1 && trendVector_BTCDOWN_ALMA20 > 1 && isDealClosed ) {
-                isDealClosed = false
-                trailingStopPriceArrayDOWN.push(valueArray_BTCDOWN[1])                 
-                await buyAndSellOrder('BTCDOWN/USDT', 'buy')   
-            }
-
-            const findHighestPrice = () => {  //Finds the highest price in the trailingStopPriceArray[]. That value is used for determining Trailing Stop price..
-                let highest = 0;
-                for (const element of trailingStopPriceArrayDOWN) {
-                    if (element > highest) {
-                        highest = element;
-                    }         
-                }
-                return highest;
-            }
-
-            let highestPrice = findHighestPrice();
-            trailingStopPrice = highestPrice / CALLBACK_RATE;
-
-            //Real-Time Trailing Stop-Loss control!! If price is down below Trailing-Stop price , coin gets liquidated!!
             if (valueArray_BTCDOWN[1] < trailingStopPrice) {
                 isDealClosed = true
-                trailingStopPriceArrayDOWN = []                         //Wipes out the array when trade is over
+                trailingStopPriceArray = []                         //Wipes out the array when trade is over
                 await buyAndSellOrder('BTCDOWN/USDT', 'sell')
             }
-            
-            //Control selector..                                       
-            if( trendVector_BTCDOWN_ALMA200 < 1 ) {                     //Sell and hand control , whatever sthe situation is..
-                await buyAndSellOrder('BTCDOWN/USDT', 'sell')
-                mode = "UP"
-                isDealClosed = false
-            }
         }
-        trailingStopControlDown(mode)
+        trailingStopControl();
 
-        if(mode === "UP" || mode === null) {
-            console.table(trailingStopPriceArray);
-        }
-        if(mode === "DOWN") {
-            console.table(trailingStopPriceArrayDOWN);
-        }
-
-        //Date and time..
-        console.log("-----TARIH/SAAT---")
-        console.log(time.toLocaleDateString(), time.toLocaleTimeString());
-        console.log("------------------")   
-
+        console.table(trailingStopPriceArray);
         //Prints FAKE balances..
         console.log("-------------------------------------")
         console.log(`Where is the money: ${whereIsTheMoney}`)
         console.log(`Total equity in USDT: ${totalEquityUSDT}`)
-        console.log(`MODE: mainTrailingStopDual`)
+        console.log(`MODE: mainTrailingStopDOWN`)
         console.log("-------------------------------------")
 
         //check where is the local monies :)
-        console.log(`UP/DOWN mode: ${mode}`)
-        console.log(`Kickstarted?: ${kickStarted}`)
-
-        if( mode == "UP" || mode === null) {
-            console.log(`Current ALMA20_UP trendVector is: ${trendVector_BTCUP_ALMA20}`)
-            console.log(`Current ALMA200_UP trendVector is: ${trendVector_BTCUP_ALMA200}`)
-            console.log(`BTCUP value array: [${valueArray_BTCUP[0]}, ${valueArray_BTCUP[1]}]`);
-        }
-        if( mode === "DOWN") {
-            console.log(`Current ALMA20_DOWN trendVector is: ${1 / trendVector_BTCUP_ALMA20}`)
-            console.log(`Current ALMA200_DOWN trendVector is: ${1 / trendVector_BTCUP_ALMA200}`)
-            console.log(`BTCDOWN value array: [${valueArray_BTCDOWN[0]}, ${valueArray_BTCDOWN[1]}]`);
-        }
+        console.log(`Current ALMA20_DOWN trendVector is: ${trendVector_BTCDOWN_ALMA20}`)
+        console.log(`Current ALMA200_DOWN trendVector is: ${trendVector_BTCDOWN_ALMA200}`)
+        console.log(`BTCUP value array: [${valueArray_BTCDOWN[0]}, ${valueArray_BTCDOWN[1]}]`);
         console.log(`Trailing-Stop price: ${trailingStopPrice}`);
         console.log(`Callback rate: ${CALLBACK_RATE}`);
         console.log(`Is deal closed?: ${isDealClosed}`);

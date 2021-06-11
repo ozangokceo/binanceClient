@@ -26203,5 +26203,5461 @@
         "callBackRate": 1.011,
         "isDealClosed": false,
         "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5351919848,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:07:16 AM",
+        "ALMA200_trend": 1.0002964303622257,
+        "ALMA20_trend": 1.000158564806832,
+        "btcUpRealtimePrice": [
+            55.456,
+            55.576
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5287875848,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:08:16 AM",
+        "ALMA200_trend": 1.0002880594585886,
+        "ALMA20_trend": 1.000149654215616,
+        "btcUpRealtimePrice": [
+            55.576,
+            55.556
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.521742821,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:09:16 AM",
+        "ALMA200_trend": 1.0002831493270368,
+        "ALMA20_trend": 1.0001804878765692,
+        "btcUpRealtimePrice": [
+            55.556,
+            55.534
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5518433486,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:10:16 AM",
+        "ALMA200_trend": 1.0002913867799013,
+        "ALMA20_trend": 1.0003709712904572,
+        "btcUpRealtimePrice": [
+            55.534,
+            55.628
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5313493956,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:11:16 AM",
+        "ALMA200_trend": 1.0002747905636087,
+        "ALMA20_trend": 1.000230688878793,
+        "btcUpRealtimePrice": [
+            55.628,
+            55.564
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5428771632,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:12:21 AM",
+        "ALMA200_trend": 1.0002946344706425,
+        "ALMA20_trend": 1.0005198691109638,
+        "btcUpRealtimePrice": [
+            55.564,
+            55.6
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.660076337,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:13:17 AM",
+        "ALMA200_trend": 1.0003100453560787,
+        "ALMA20_trend": 1.0007713874727644,
+        "btcUpRealtimePrice": [
+            55.6,
+            55.928
+        ],
+        "trailingStopPrice": 55.18298714144412,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.6322172224,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:14:18 AM",
+        "ALMA200_trend": 1.0003253210456804,
+        "ALMA20_trend": 1.0010188673261387,
+        "btcUpRealtimePrice": [
+            55.928,
+            55.915
+        ],
+        "trailingStopPrice": 55.319485657764595,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.769910908,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:15:18 AM",
+        "ALMA200_trend": 1.000470546186405,
+        "ALMA20_trend": 1.002957965686916,
+        "btcUpRealtimePrice": [
+            55.915,
+            56.368
+        ],
+        "trailingStopPrice": 55.319485657764595,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.756781888000003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:16:16 AM",
+        "ALMA200_trend": 1.0004210857588414,
+        "ALMA20_trend": 1.002468294803267,
+        "btcUpRealtimePrice": [
+            56.368,
+            56.268
+        ],
+        "trailingStopPrice": 55.754698318496544,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.7593434194,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:17:17 AM",
+        "ALMA200_trend": 1.000419204608237,
+        "ALMA20_trend": 1.0023080218552356,
+        "btcUpRealtimePrice": [
+            56.268,
+            56.276
+        ],
+        "trailingStopPrice": 55.754698318496544,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.816342731800002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:18:16 AM",
+        "ALMA200_trend": 1.0004179479013384,
+        "ALMA20_trend": 1.0019910631399631,
+        "btcUpRealtimePrice": [
+            56.276,
+            56.454
+        ],
+        "trailingStopPrice": 55.754698318496544,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.693058844600003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:20:16 AM",
+        "ALMA200_trend": 1.0007608747197116,
+        "ALMA20_trend": 1.0017447660069108,
+        "btcUpRealtimePrice": [
+            56.454,
+            56.069
+        ],
+        "trailingStopPrice": 55.83976261127597,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.670964071,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:21:16 AM",
+        "ALMA200_trend": 1.0003151249674231,
+        "ALMA20_trend": 0.9994203688213641,
+        "btcUpRealtimePrice": [
+            56.069,
+            56
+        ],
+        "trailingStopPrice": 55.83976261127597,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.6072403926,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:22:16 AM",
+        "ALMA200_trend": 1.0002980702689406,
+        "ALMA20_trend": 0.9988810253295932,
+        "btcUpRealtimePrice": [
+            56,
+            55.801
+        ],
+        "trailingStopPrice": 55.83976261127597,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.590283048,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:23:16 AM",
+        "ALMA200_trend": 1.0002920053495412,
+        "ALMA20_trend": 0.998676645193784,
+        "btcUpRealtimePrice": [
+            55.801,
+            55.85
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.589700380999997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:24:16 AM",
+        "ALMA200_trend": 1.000292267448014,
+        "ALMA20_trend": 0.9987546316278566,
+        "btcUpRealtimePrice": [
+            55.85,
+            55.793
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5912739562,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:25:16 AM",
+        "ALMA200_trend": 1.0003168040448152,
+        "ALMA20_trend": 0.9993074867315582,
+        "btcUpRealtimePrice": [
+            55.793,
+            56.015
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.590139714,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:26:16 AM",
+        "ALMA200_trend": 1.0002738423759987,
+        "ALMA20_trend": 0.9990884102991993,
+        "btcUpRealtimePrice": [
+            56.015,
+            55.836
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5885561982,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:27:16 AM",
+        "ALMA200_trend": 1.0002534919954367,
+        "ALMA20_trend": 0.9990856744819815,
+        "btcUpRealtimePrice": [
+            55.836,
+            55.681
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5869112862,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:28:16 AM",
+        "ALMA200_trend": 1.0002195313944247,
+        "ALMA20_trend": 0.9988553077298307,
+        "btcUpRealtimePrice": [
+            55.681,
+            55.52
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5887096506,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:29:16 AM",
+        "ALMA200_trend": 1.0002335404316922,
+        "ALMA20_trend": 0.9992005836128669,
+        "btcUpRealtimePrice": [
+            55.52,
+            55.696
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5883518998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:30:16 AM",
+        "ALMA200_trend": 1.000227719941285,
+        "ALMA20_trend": 0.9993378783845259,
+        "btcUpRealtimePrice": [
+            55.696,
+            55.661
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.589108256,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:31:16 AM",
+        "ALMA200_trend": 1.0002266425543256,
+        "ALMA20_trend": 0.9995472619036561,
+        "btcUpRealtimePrice": [
+            55.661,
+            55.735
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.587166329,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:32:16 AM",
+        "ALMA200_trend": 1.0001821169335479,
+        "ALMA20_trend": 0.9991882321106441,
+        "btcUpRealtimePrice": [
+            55.735,
+            55.545
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.588750809999997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:33:16 AM",
+        "ALMA200_trend": 1.0002141888664935,
+        "ALMA20_trend": 0.9997670250927392,
+        "btcUpRealtimePrice": [
+            55.545,
+            55.7
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5872481652,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:34:17 AM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            55.553
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.588535910599997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:35:13 AM",
+        "ALMA200_trend": 1.0001881411710054,
+        "ALMA20_trend": 0.9997837464718731,
+        "btcUpRealtimePrice": [
+            55.553,
+            55.679
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.588546308399998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:36:13 AM",
+        "ALMA200_trend": 1.000185755010581,
+        "ALMA20_trend": 0.9999235705854506,
+        "btcUpRealtimePrice": [
+            55.679,
+            55.68
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.586339144,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:37:13 AM",
+        "ALMA200_trend": 1.0001798271766402,
+        "ALMA20_trend": 1.0000026558460258,
+        "btcUpRealtimePrice": [
+            55.68,
+            55.52
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.577400917200002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:38:13 AM",
+        "ALMA200_trend": 1.0001452255409813,
+        "ALMA20_trend": 0.999675485433748,
+        "btcUpRealtimePrice": [
+            55.52,
+            55.515
+        ],
+        "trailingStopPrice": 54.91592482690407,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.500942528800003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:39:13 AM",
+        "ALMA200_trend": 1.0000779415478402,
+        "ALMA20_trend": 0.9988482292803064,
+        "btcUpRealtimePrice": [
+            55.515,
+            55.276
+        ],
+        "trailingStopPrice": 54.91592482690407,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4687856418,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:40:13 AM",
+        "ALMA200_trend": 1.0000822596150643,
+        "ALMA20_trend": 0.998898688059316,
+        "btcUpRealtimePrice": [
+            55.276,
+            55.229
+        ],
+        "trailingStopPrice": 54.91592482690407,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4443889248,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:41:13 AM",
+        "ALMA200_trend": 1.000089888869612,
+        "ALMA20_trend": 0.9991081940336173,
+        "btcUpRealtimePrice": [
+            55.229,
+            55.343
+        ],
+        "trailingStopPrice": 54.91592482690407,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4443887978,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:42:13 AM",
+        "ALMA200_trend": 1.0000660076152577,
+        "ALMA20_trend": 0.9990114995002869,
+        "btcUpRealtimePrice": [
+            55.343,
+            55.343
+        ],
+        "trailingStopPrice": 54.91592482690407,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.437188655,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:47:48 AM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            55.735
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4374096074,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:48:44 AM",
+        "ALMA200_trend": 1.0000951259392317,
+        "ALMA20_trend": 1.0007162483320942,
+        "btcUpRealtimePrice": [
+            55.735,
+            55.758
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.380805736000006,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:49:44 AM",
+        "ALMA200_trend": 1.0001138000970808,
+        "ALMA20_trend": 1.0010099769647984,
+        "btcUpRealtimePrice": [
+            55.758,
+            55.63
+        ],
+        "trailingStopPrice": 55.15133531157271,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.367395098800003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:50:44 AM",
+        "ALMA200_trend": 1.0000815233554967,
+        "ALMA20_trend": 1.0005966020126624,
+        "btcUpRealtimePrice": [
+            55.63,
+            55.588
+        ],
+        "trailingStopPrice": 55.15133531157271,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4322110196,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:51:44 AM",
+        "ALMA200_trend": 1.0000981311999007,
+        "ALMA20_trend": 1.0007285457098005,
+        "btcUpRealtimePrice": [
+            55.588,
+            55.791
+        ],
+        "trailingStopPrice": 55.15133531157271,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.465097686400004,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:52:44 AM",
+        "ALMA200_trend": 1.0001022724950261,
+        "ALMA20_trend": 1.0007140796443827,
+        "btcUpRealtimePrice": [
+            55.791,
+            55.894
+        ],
+        "trailingStopPrice": 55.1839762611276,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.473399226400005,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:53:44 AM",
+        "ALMA200_trend": 1.0001213583441957,
+        "ALMA20_trend": 1.0009036962434763,
+        "btcUpRealtimePrice": [
+            55.894,
+            55.92
+        ],
+        "trailingStopPrice": 55.28585558852622,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.495749145400005,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:54:44 AM",
+        "ALMA200_trend": 1.0001227212259232,
+        "ALMA20_trend": 1.000888814202681,
+        "btcUpRealtimePrice": [
+            55.92,
+            55.99
+        ],
+        "trailingStopPrice": 55.31157270029674,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.518738025400005,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:55:44 AM",
+        "ALMA200_trend": 1.0001341770011685,
+        "ALMA20_trend": 1.0009926060594698,
+        "btcUpRealtimePrice": [
+            55.99,
+            56.125
+        ],
+        "trailingStopPrice": 55.38081107814046,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5388534732,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:56:44 AM",
+        "ALMA200_trend": 1.0001192948346627,
+        "ALMA20_trend": 1.00074073987155,
+        "btcUpRealtimePrice": [
+            56.125,
+            56.125
+        ],
+        "trailingStopPrice": 55.51434223541049,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4922372348,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:57:44 AM",
+        "ALMA200_trend": 1.000134865743447,
+        "ALMA20_trend": 1.000838556966707,
+        "btcUpRealtimePrice": [
+            56.125,
+            55.979
+        ],
+        "trailingStopPrice": 55.51434223541049,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.527039413,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:58:44 AM",
+        "ALMA200_trend": 1.0001433561118522,
+        "ALMA20_trend": 1.0008571098730732,
+        "btcUpRealtimePrice": [
+            55.979,
+            56.088
+        ],
+        "trailingStopPrice": 55.51434223541049,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.502454235400005,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:59:44 AM",
+        "ALMA200_trend": 1.0001473016774713,
+        "ALMA20_trend": 1.00081702383588,
+        "btcUpRealtimePrice": [
+            56.088,
+            56.011
+        ],
+        "trailingStopPrice": 55.51434223541049,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.53342534,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:00:44 AM",
+        "ALMA200_trend": 1.0001219504897394,
+        "ALMA20_trend": 1.0003848914537243,
+        "btcUpRealtimePrice": [
+            56.011,
+            56.108
+        ],
+        "trailingStopPrice": 55.51434223541049,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.591535662800002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:01:45 AM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            56.224
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4989418422,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:02:41 AM",
+        "ALMA200_trend": 1.0001589388531968,
+        "ALMA20_trend": 1.0006985398262245,
+        "btcUpRealtimePrice": [
+            56.224,
+            56
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.416565860400002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:03:41 AM",
+        "ALMA200_trend": 1.000098552494162,
+        "ALMA20_trend": 0.9998148049870229,
+        "btcUpRealtimePrice": [
+            56,
+            55.741
+        ],
+        "trailingStopPrice": 55.390702274975276,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.403155909000002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:04:41 AM",
+        "ALMA200_trend": 1.0000806600677732,
+        "ALMA20_trend": 0.9993976177480736,
+        "btcUpRealtimePrice": [
+            55.741,
+            55.7
+        ],
+        "trailingStopPrice": 55.390702274975276,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.363713301999997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "11:42:24 AM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            56.28
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3622551022,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "11:43:19 AM",
+        "ALMA200_trend": 1.000093478896982,
+        "ALMA20_trend": 0.999584394755442,
+        "btcUpRealtimePrice": [
+            56.28,
+            56.16
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.364409670999997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "11:44:20 AM",
+        "ALMA200_trend": 1.0000769195491215,
+        "ALMA20_trend": 0.9995439782351707,
+        "btcUpRealtimePrice": [
+            56.16,
+            56.355
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.364084648,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "11:45:19 AM",
+        "ALMA200_trend": 1.0000690256422846,
+        "ALMA20_trend": 0.9996232975828591,
+        "btcUpRealtimePrice": [
+            56.355,
+            56.32
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.366620183,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "11:46:19 AM",
+        "ALMA200_trend": 1.0001201695759379,
+        "ALMA20_trend": 1.0004930740965352,
+        "btcUpRealtimePrice": [
+            56.32,
+            56.593
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.29954199,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:47:19 AM",
+        "ALMA200_trend": 1.0001010642586219,
+        "ALMA20_trend": 1.0004963602447083,
+        "btcUpRealtimePrice": [
+            56.593,
+            56.435
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.289963554,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:48:19 AM",
+        "ALMA200_trend": 1.0000745503538728,
+        "ALMA20_trend": 1.0002917296012803,
+        "btcUpRealtimePrice": [
+            56.435,
+            56.404
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.264317510999998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:49:19 AM",
+        "ALMA200_trend": 1.0000600351873177,
+        "ALMA20_trend": 1.000136331724834,
+        "btcUpRealtimePrice": [
+            56.404,
+            56.321
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.264008724199996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:50:19 AM",
+        "ALMA200_trend": 1.0000415018523618,
+        "ALMA20_trend": 0.9998768545139578,
+        "btcUpRealtimePrice": [
+            56.321,
+            56.32
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.289963554,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:51:19 AM",
+        "ALMA200_trend": 1.0000499329890016,
+        "ALMA20_trend": 0.9999615898938706,
+        "btcUpRealtimePrice": [
+            56.32,
+            56.404
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2825479718,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:52:19 AM",
+        "ALMA200_trend": 1.0000614293005474,
+        "ALMA20_trend": 1.0001500903432547,
+        "btcUpRealtimePrice": [
+            56.404,
+            56.38
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2599917526,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:53:19 AM",
+        "ALMA200_trend": 1.0000203830243741,
+        "ALMA20_trend": 0.9996974314268522,
+        "btcUpRealtimePrice": [
+            56.38,
+            56.307
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2599915748,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:54:19 AM",
+        "ALMA200_trend": 1.0000152261957969,
+        "ALMA20_trend": 0.9996757510763283,
+        "btcUpRealtimePrice": [
+            56.307,
+            56.307
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2584468534,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:55:19 AM",
+        "ALMA200_trend": 1.0000093813691249,
+        "ALMA20_trend": 0.9996743221455936,
+        "btcUpRealtimePrice": [
+            56.307,
+            56.302
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2544300342,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:56:19 AM",
+        "ALMA200_trend": 1.0000004966711036,
+        "ALMA20_trend": 0.9996543093902173,
+        "btcUpRealtimePrice": [
+            56.302,
+            56.289
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2658625626,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:57:20 AM",
+        "ALMA200_trend": 0.9999967548952493,
+        "ALMA20_trend": 0.9997139992175269,
+        "btcUpRealtimePrice": [
+            56.289,
+            56.326
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3097390918,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:58:19 AM",
+        "ALMA200_trend": 0.9999963159274332,
+        "ALMA20_trend": 0.9998323544616029,
+        "btcUpRealtimePrice": [
+            56.326,
+            56.468
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2559748318,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "11:59:20 AM",
+        "ALMA200_trend": 0.999991719803704,
+        "ALMA20_trend": 0.9999039235522368,
+        "btcUpRealtimePrice": [
+            56.468,
+            56.294
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3397106392,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:00:20 PM",
+        "ALMA200_trend": 0.9999808767946474,
+        "ALMA20_trend": 0.9998800625652546,
+        "btcUpRealtimePrice": [
+            56.294,
+            56.565
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3764803222,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:01:20 PM",
+        "ALMA200_trend": 1.000039591041818,
+        "ALMA20_trend": 1.0007558978527757,
+        "btcUpRealtimePrice": [
+            56.565,
+            56.684
+        ],
+        "trailingStopPrice": 55.97725024727993,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.321480813399997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:02:19 PM",
+        "ALMA200_trend": 1.0000179039320995,
+        "ALMA20_trend": 1.0006323943211421,
+        "btcUpRealtimePrice": [
+            56.684,
+            56.4
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.295216638,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:03:20 PM",
+        "ALMA200_trend": 0.9999731236086296,
+        "ALMA20_trend": 1.0000873640922712,
+        "btcUpRealtimePrice": [
+            56.4,
+            56.421
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.294598353199998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:04:19 PM",
+        "ALMA200_trend": 0.9999887075494747,
+        "ALMA20_trend": 1.0002210435691818,
+        "btcUpRealtimePrice": [
+            56.421,
+            56.419
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3122110626,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:05:19 PM",
+        "ALMA200_trend": 0.9999854348512375,
+        "ALMA20_trend": 1.000132547275941,
+        "btcUpRealtimePrice": [
+            56.419,
+            56.476
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.378643303,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:06:19 PM",
+        "ALMA200_trend": 0.9999926053798668,
+        "ALMA20_trend": 1.000192950701599,
+        "btcUpRealtimePrice": [
+            56.476,
+            56.691
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.359485846799995,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:07:20 PM",
+        "ALMA200_trend": 1.0000356259319911,
+        "ALMA20_trend": 1.0007678288935113,
+        "btcUpRealtimePrice": [
+            56.691,
+            56.629
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.347126424599995,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:08:21 PM",
+        "ALMA200_trend": 1.0000090842412372,
+        "ALMA20_trend": 1.000490569800467,
+        "btcUpRealtimePrice": [
+            56.629,
+            56.589
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.398727754599996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:09:20 PM",
+        "ALMA200_trend": 1.00002481500276,
+        "ALMA20_trend": 1.0006875836277742,
+        "btcUpRealtimePrice": [
+            56.589,
+            56.756
+        ],
+        "trailingStopPrice": 56.06726013847676,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.407070256,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:10:20 PM",
+        "ALMA200_trend": 1.0000418979134733,
+        "ALMA20_trend": 1.0008906841936267,
+        "btcUpRealtimePrice": [
+            56.756,
+            56.783
+        ],
+        "trailingStopPrice": 56.13847675568744,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3770980736,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:11:20 PM",
+        "ALMA200_trend": 1.0000474101591157,
+        "ALMA20_trend": 1.0009183882084545,
+        "btcUpRealtimePrice": [
+            56.783,
+            56.759
+        ],
+        "trailingStopPrice": 56.16518298714145,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4361152652,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:12:20 PM",
+        "ALMA200_trend": 1.000072810238398,
+        "ALMA20_trend": 1.0011655022525254,
+        "btcUpRealtimePrice": [
+            56.759,
+            56.769
+        ],
+        "trailingStopPrice": 56.16518298714145,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3891486836,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:13:20 PM",
+        "ALMA200_trend": 1.0000309658863755,
+        "ALMA20_trend": 1.0005145880314892,
+        "btcUpRealtimePrice": [
+            56.769,
+            56.725
+        ],
+        "trailingStopPrice": 56.16518298714145,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.422519679799997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:14:20 PM",
+        "ALMA200_trend": 1.000039335799463,
+        "ALMA20_trend": 1.0004205204489471,
+        "btcUpRealtimePrice": [
+            56.725,
+            56.833
+        ],
+        "trailingStopPrice": 56.16518298714145,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5294294324,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:15:20 PM",
+        "ALMA200_trend": 1.0000920535855184,
+        "ALMA20_trend": 1.0009438654872886,
+        "btcUpRealtimePrice": [
+            56.833,
+            57.2
+        ],
+        "trailingStopPrice": 56.21463897131553,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4561990564,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:16:20 PM",
+        "ALMA200_trend": 1.00007120514745,
+        "ALMA20_trend": 1.0005992411668874,
+        "btcUpRealtimePrice": [
+            57.2,
+            56.942
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.429008469799996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:17:20 PM",
+        "ALMA200_trend": 1.0000746584998264,
+        "ALMA20_trend": 1.0005260951894719,
+        "btcUpRealtimePrice": [
+            56.942,
+            56.854
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.424064629799997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:18:20 PM",
+        "ALMA200_trend": 1.0000551141950624,
+        "ALMA20_trend": 1.000151100082502,
+        "btcUpRealtimePrice": [
+            56.854,
+            56.838
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.449710622,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:19:20 PM",
+        "ALMA200_trend": 1.0000491223591315,
+        "ALMA20_trend": 0.9999262561793462,
+        "btcUpRealtimePrice": [
+            56.838,
+            56.921
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4194298814,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:20:20 PM",
+        "ALMA200_trend": 1.0000539846832401,
+        "ALMA20_trend": 0.9998663463831321,
+        "btcUpRealtimePrice": [
+            56.921,
+            56.823
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.372772467599997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:21:20 PM",
+        "ALMA200_trend": 1.0000340801081637,
+        "ALMA20_trend": 0.9995336116148691,
+        "btcUpRealtimePrice": [
+            56.823,
+            56.672
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.347434932000002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:22:20 PM",
+        "ALMA200_trend": 1.000028238910984,
+        "ALMA20_trend": 0.9994031004408821,
+        "btcUpRealtimePrice": [
+            56.672,
+            56.59
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.484008003999996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:23:20 PM",
+        "ALMA200_trend": 1.0000737989198132,
+        "ALMA20_trend": 1.0000036629536277,
+        "btcUpRealtimePrice": [
+            56.59,
+            57.032
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.465159918799998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:24:20 PM",
+        "ALMA200_trend": 1.000046459761436,
+        "ALMA20_trend": 0.9997553808086839,
+        "btcUpRealtimePrice": [
+            57.032,
+            56.971
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3925472942,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:25:20 PM",
+        "ALMA200_trend": 1.0000424542002202,
+        "ALMA20_trend": 0.9997551288570451,
+        "btcUpRealtimePrice": [
+            56.971,
+            56.736
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4741202986,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:26:20 PM",
+        "ALMA200_trend": 1.000095949396271,
+        "ALMA20_trend": 1.0004971045735205,
+        "btcUpRealtimePrice": [
+            56.736,
+            57
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.535917942999998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:27:20 PM",
+        "ALMA200_trend": 1.0001023750864722,
+        "ALMA20_trend": 1.000676760437336,
+        "btcUpRealtimePrice": [
+            57,
+            57.193
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.5359179684,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:28:20 PM",
+        "ALMA200_trend": 1.000139764283365,
+        "ALMA20_trend": 1.0011998313039339,
+        "btcUpRealtimePrice": [
+            57.193,
+            57.2
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.559091685,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:29:20 PM",
+        "ALMA200_trend": 1.0001696039796542,
+        "ALMA20_trend": 1.0015915165053924,
+        "btcUpRealtimePrice": [
+            57.2,
+            57.275
+        ],
+        "trailingStopPrice": 56.577645895153324,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.611310842600002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:30:20 PM",
+        "ALMA200_trend": 1.0001708538015746,
+        "ALMA20_trend": 1.0015336192062476,
+        "btcUpRealtimePrice": [
+            57.275,
+            57.407
+        ],
+        "trailingStopPrice": 56.65182987141444,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.606058291999997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:31:20 PM",
+        "ALMA200_trend": 1.0001899153427272,
+        "ALMA20_trend": 1.0015887534741335,
+        "btcUpRealtimePrice": [
+            57.407,
+            57.427
+        ],
+        "trailingStopPrice": 56.782393669634025,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.556311232199995,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:32:20 PM",
+        "ALMA200_trend": 1.0001479870419847,
+        "ALMA20_trend": 1.0007798934549021,
+        "btcUpRealtimePrice": [
+            57.427,
+            57.266
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.488642955599996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:33:20 PM",
+        "ALMA200_trend": 1.0001420935933136,
+        "ALMA20_trend": 1.0003301456921991,
+        "btcUpRealtimePrice": [
+            57.266,
+            57.167
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4728843894,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:34:20 PM",
+        "ALMA200_trend": 1.000106325150205,
+        "ALMA20_trend": 0.9995206164876506,
+        "btcUpRealtimePrice": [
+            57.167,
+            56.996
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4157215696,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:35:20 PM",
+        "ALMA200_trend": 1.0001159053606117,
+        "ALMA20_trend": 0.9993508259878471,
+        "btcUpRealtimePrice": [
+            56.996,
+            56.811
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.422828237999997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:36:20 PM",
+        "ALMA200_trend": 1.0000903062532591,
+        "ALMA20_trend": 0.998884017959132,
+        "btcUpRealtimePrice": [
+            56.811,
+            56.834
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.4070702052,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "12:37:20 PM",
+        "ALMA200_trend": 1.00010727444795,
+        "ALMA20_trend": 0.9990740966635525,
+        "btcUpRealtimePrice": [
+            56.834,
+            56.783
+        ],
+        "trailingStopPrice": 56.80217606330366,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3720198688,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:38:20 PM",
+        "ALMA200_trend": 1.0001098704289857,
+        "ALMA20_trend": 0.9992227661210586,
+        "btcUpRealtimePrice": [
+            56.783,
+            56.949
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.372990560199998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:39:20 PM",
+        "ALMA200_trend": 1.0001059512950772,
+        "ALMA20_trend": 0.9993462137155181,
+        "btcUpRealtimePrice": [
+            56.949,
+            56.954
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.372244568,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:40:20 PM",
+        "ALMA200_trend": 1.000125437883076,
+        "ALMA20_trend": 0.9997783898395542,
+        "btcUpRealtimePrice": [
+            56.954,
+            56.884
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.372325528799998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:41:20 PM",
+        "ALMA200_trend": 1.0001282743968116,
+        "ALMA20_trend": 0.9999932463946936,
+        "btcUpRealtimePrice": [
+            56.884,
+            56.88
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.369404312199997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:42:20 PM",
+        "ALMA200_trend": 1.0001011278196674,
+        "ALMA20_trend": 0.9997531503281615,
+        "btcUpRealtimePrice": [
+            56.88,
+            56.555
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3720470928,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:43:20 PM",
+        "ALMA200_trend": 1.0000956940754335,
+        "ALMA20_trend": 0.9996964269792245,
+        "btcUpRealtimePrice": [
+            56.555,
+            56.849
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.370842509,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:44:20 PM",
+        "ALMA200_trend": 1.000070658907788,
+        "ALMA20_trend": 0.9993541248610992,
+        "btcUpRealtimePrice": [
+            56.849,
+            56.715
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3695215632,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:45:20 PM",
+        "ALMA200_trend": 1.0000321518949207,
+        "ALMA20_trend": 0.9988099331897421,
+        "btcUpRealtimePrice": [
+            56.715,
+            56.568
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3696202246,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:46:20 PM",
+        "ALMA200_trend": 1.0000183378728937,
+        "ALMA20_trend": 0.998595700725663,
+        "btcUpRealtimePrice": [
+            56.568,
+            56.579
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3688744356,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:47:20 PM",
+        "ALMA200_trend": 1.0000277423125548,
+        "ALMA20_trend": 0.9987780483975198,
+        "btcUpRealtimePrice": [
+            56.579,
+            56.496
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3683171826,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:48:20 PM",
+        "ALMA200_trend": 1.0000255382418541,
+        "ALMA20_trend": 0.998932381604926,
+        "btcUpRealtimePrice": [
+            56.496,
+            56.434
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.368101320999997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:49:20 PM",
+        "ALMA200_trend": 1.0000071278593248,
+        "ALMA20_trend": 0.9989347230693291,
+        "btcUpRealtimePrice": [
+            56.434,
+            56.41
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.368865496399998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:50:20 PM",
+        "ALMA200_trend": 1.000024188271834,
+        "ALMA20_trend": 0.9994048282832325,
+        "btcUpRealtimePrice": [
+            56.41,
+            56.495
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3673555828,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:51:20 PM",
+        "ALMA200_trend": 1.000017157893069,
+        "ALMA20_trend": 0.9995799650115924,
+        "btcUpRealtimePrice": [
+            56.495,
+            56.327
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.368011624199998,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:52:20 PM",
+        "ALMA200_trend": 0.9999975774911167,
+        "ALMA20_trend": 0.9995334420924651,
+        "btcUpRealtimePrice": [
+            56.327,
+            56.4
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3673643442,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:53:20 PM",
+        "ALMA200_trend": 1.0000002172766698,
+        "ALMA20_trend": 0.9997058957050237,
+        "btcUpRealtimePrice": [
+            56.4,
+            56.328
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3673734104,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "12:54:20 PM",
+        "ALMA200_trend": 0.9999793182408203,
+        "ALMA20_trend": 0.9995436978234361,
+        "btcUpRealtimePrice": [
+            56.328,
+            56.329
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.350688419199997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:54:37 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            56.42
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.359642664300004,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:55:33 PM",
+        "ALMA200_trend": 0.9999858247393656,
+        "ALMA20_trend": 0.9997014063133792,
+        "btcUpRealtimePrice": [
+            56.42,
+            56.388
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3736793928,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:56:33 PM",
+        "ALMA200_trend": 0.9999825264764095,
+        "ALMA20_trend": 0.9997526211126888,
+        "btcUpRealtimePrice": [
+            56.388,
+            56.236
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.290244285199996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:57:33 PM",
+        "ALMA200_trend": 0.9999519867448533,
+        "ALMA20_trend": 0.9994448987980094,
+        "btcUpRealtimePrice": [
+            56.236,
+            56.56
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.362831186,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:58:33 PM",
+        "ALMA200_trend": 0.9999826522130297,
+        "ALMA20_trend": 0.9999180834741375,
+        "btcUpRealtimePrice": [
+            56.56,
+            56.4
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.351003069199997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "12:59:33 PM",
+        "ALMA200_trend": 1.0000002477940422,
+        "ALMA20_trend": 1.0002923845748675,
+        "btcUpRealtimePrice": [
+            56.4,
+            56.455
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.306348713700004,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "1:00:33 PM",
+        "ALMA200_trend": 0.9999813192132301,
+        "ALMA20_trend": 1.0001896675800148,
+        "btcUpRealtimePrice": [
+            56.455,
+            56.628
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2577057265,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "1:01:33 PM",
+        "ALMA200_trend": 1.000020145454664,
+        "ALMA20_trend": 1.000781107967559,
+        "btcUpRealtimePrice": [
+            56.628,
+            56.7
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.2667768416,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "1:02:33 PM",
+        "ALMA200_trend": 1.0000330331492855,
+        "ALMA20_trend": 1.001041873912874,
+        "btcUpRealtimePrice": [
+            56.7,
+            56.681
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.3149793188,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "1:03:33 PM",
+        "ALMA200_trend": 1.0000454163057813,
+        "ALMA20_trend": 1.0012344089637553,
+        "btcUpRealtimePrice": [
+            56.681,
+            56.56
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.002323982,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "1:04:33 PM",
+        "ALMA200_trend": 0.9999828115996429,
+        "ALMA20_trend": 1.000358507361346,
+        "btcUpRealtimePrice": [
+            56.56,
+            57.324
+        ],
+        "trailingStopPrice": 0.055934718100890214,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9441802848,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:05:33 PM",
+        "ALMA200_trend": 1.0001685141565462,
+        "ALMA20_trend": 1.0026240048717159,
+        "btcUpRealtimePrice": [
+            57.324,
+            57.666
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9448622084,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:06:33 PM",
+        "ALMA200_trend": 1.0002046119426915,
+        "ALMA20_trend": 1.003172510603878,
+        "btcUpRealtimePrice": [
+            57.666,
+            57.647
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.879579962200005,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:07:33 PM",
+        "ALMA200_trend": 1.000198076228832,
+        "ALMA20_trend": 1.003032955566625,
+        "btcUpRealtimePrice": [
+            57.647,
+            57.499
+        ],
+        "trailingStopPrice": 57.01978239366964,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9327911869,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:08:33 PM",
+        "ALMA200_trend": 1.0001656943978015,
+        "ALMA20_trend": 1.002327761064536,
+        "btcUpRealtimePrice": [
+            57.499,
+            57.679
+        ],
+        "trailingStopPrice": 57.01978239366964,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8342677294,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:09:33 PM",
+        "ALMA200_trend": 1.0001583343955067,
+        "ALMA20_trend": 1.001737742774471,
+        "btcUpRealtimePrice": [
+            57.679,
+            57.344
+        ],
+        "trailingStopPrice": 57.05143422354106,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.835040546000002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:10:33 PM",
+        "ALMA200_trend": 1.0001471461087206,
+        "ALMA20_trend": 1.0010314916785814,
+        "btcUpRealtimePrice": [
+            57.344,
+            57.347
+        ],
+        "trailingStopPrice": 57.05143422354106,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8873556707,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:11:57 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.524
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.836823237500003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:12:52 PM",
+        "ALMA200_trend": 1.0001764627465646,
+        "ALMA20_trend": 1.000547104172672,
+        "btcUpRealtimePrice": [
+            57.524,
+            57.33
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.842621820900003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:13:52 PM",
+        "ALMA200_trend": 1.0001394476797019,
+        "ALMA20_trend": 0.9997992948621532,
+        "btcUpRealtimePrice": [
+            57.33,
+            57.373
+        ],
+        "trailingStopPrice": 56.70623145400594,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8643652792,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:14:08 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.379
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8468131294,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:15:03 PM",
+        "ALMA200_trend": 1.0001530644615377,
+        "ALMA20_trend": 0.9997611452893376,
+        "btcUpRealtimePrice": [
+            57.379,
+            57.446
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8293937715,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:16:03 PM",
+        "ALMA200_trend": 1.0001660877189207,
+        "ALMA20_trend": 0.9998459291113695,
+        "btcUpRealtimePrice": [
+            57.446,
+            57.325
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.800102154500003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:17:03 PM",
+        "ALMA200_trend": 1.0001457927454966,
+        "ALMA20_trend": 0.9995823189356509,
+        "btcUpRealtimePrice": [
+            57.325,
+            57.229
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8210632877,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:18:03 PM",
+        "ALMA200_trend": 1.000129375585074,
+        "ALMA20_trend": 0.9993695198641306,
+        "btcUpRealtimePrice": [
+            57.229,
+            57.3
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.901043737500004,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:19:04 PM",
+        "ALMA200_trend": 1.0001423135286416,
+        "ALMA20_trend": 0.9995492924418727,
+        "btcUpRealtimePrice": [
+            57.3,
+            57.569
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9016221205,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:20:04 PM",
+        "ALMA200_trend": 1.0001908989730193,
+        "ALMA20_trend": 1.0002540597410472,
+        "btcUpRealtimePrice": [
+            57.569,
+            57.573
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8838519294,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:21:03 PM",
+        "ALMA200_trend": 1.0003748392051999,
+        "ALMA20_trend": 1.0007933813629066,
+        "btcUpRealtimePrice": [
+            57.573,
+            57.51
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8827518873,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:22:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.51,
+            57.509
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.874767646,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:23:04 PM",
+        "ALMA200_trend": 1.0001848823192339,
+        "ALMA20_trend": 1.0004005188622354,
+        "btcUpRealtimePrice": [
+            57.509,
+            57.48
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8755404626,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:24:04 PM",
+        "ALMA200_trend": 1.0001809732495748,
+        "ALMA20_trend": 1.0002901088518816,
+        "btcUpRealtimePrice": [
+            57.48,
+            57.483
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8953684375,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:25:04 PM",
+        "ALMA200_trend": 1.0003692077100077,
+        "ALMA20_trend": 1.0003733220295823,
+        "btcUpRealtimePrice": [
+            57.483,
+            57.55
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9110477286,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:26:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.55,
+            57.606
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8531805873,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:27:04 PM",
+        "ALMA200_trend": 1.0002065044088846,
+        "ALMA20_trend": 1.0003453768653459,
+        "btcUpRealtimePrice": [
+            57.606,
+            57.463
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8656407379,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:28:04 PM",
+        "ALMA200_trend": 1.0001823938653902,
+        "ALMA20_trend": 0.9999981012120702,
+        "btcUpRealtimePrice": [
+            57.463,
+            57.448
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8652708877,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:29:04 PM",
+        "ALMA200_trend": 1.0001803623426653,
+        "ALMA20_trend": 0.9999045120677424,
+        "btcUpRealtimePrice": [
+            57.448,
+            57.448
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8442907375,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:30:04 PM",
+        "ALMA200_trend": 1.0001808406544703,
+        "ALMA20_trend": 0.9998602396400637,
+        "btcUpRealtimePrice": [
+            57.448,
+            57.4
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8346897128,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:31:04 PM",
+        "ALMA200_trend": 1.000335791500695,
+        "ALMA20_trend": 0.9993109597750486,
+        "btcUpRealtimePrice": [
+            57.4,
+            57.345
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8603257796,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:32:04 PM",
+        "ALMA200_trend": 1.0001790179232883,
+        "ALMA20_trend": 0.9997963495164571,
+        "btcUpRealtimePrice": [
+            57.345,
+            57.43
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9298136954,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:33:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.43,
+            57.489
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.900427320500004,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:34:04 PM",
+        "ALMA200_trend": 1.000391903473631,
+        "ALMA20_trend": 1.0002369066564385,
+        "btcUpRealtimePrice": [
+            57.489,
+            57.569
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9394147201,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:35:04 PM",
+        "ALMA200_trend": 1.000226944718291,
+        "ALMA20_trend": 1.000648173033473,
+        "btcUpRealtimePrice": [
+            57.569,
+            57.702
+        ],
+        "trailingStopPrice": 56.94658753709199,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.940453120500003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:36:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.702,
+            57.703
+        ],
+        "trailingStopPrice": 57.07418397626113,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.891508945200002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:37:04 PM",
+        "ALMA200_trend": 1.000227806875975,
+        "ALMA20_trend": 1.0007243830450887,
+        "btcUpRealtimePrice": [
+            57.703,
+            57.541
+        ],
+        "trailingStopPrice": 57.07418397626113,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.976093178400003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:38:04 PM",
+        "ALMA200_trend": 1.0001997001600136,
+        "ALMA20_trend": 1.000341946979097,
+        "btcUpRealtimePrice": [
+            57.541,
+            57.826
+        ],
+        "trailingStopPrice": 57.07418397626113,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.959859112,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:39:04 PM",
+        "ALMA200_trend": 1.000250267927458,
+        "ALMA20_trend": 1.0008892657123356,
+        "btcUpRealtimePrice": [
+            57.826,
+            57.671
+        ],
+        "trailingStopPrice": 57.19683481701286,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9908337448,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:40:04 PM",
+        "ALMA200_trend": 1.0004758859948961,
+        "ALMA20_trend": 1.001201998720629,
+        "btcUpRealtimePrice": [
+            57.671,
+            57.876
+        ],
+        "trailingStopPrice": 57.19683481701286,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9933276112,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:41:04 PM",
+        "ALMA200_trend": 1.0002558753382849,
+        "ALMA20_trend": 1.0006832661181406,
+        "btcUpRealtimePrice": [
+            57.876,
+            57.795
+        ],
+        "trailingStopPrice": 57.246290801186944,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9988370031,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:42:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.795,
+            57.903
+        ],
+        "trailingStopPrice": 57.246290801186944,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.968379111599997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:43:04 PM",
+        "ALMA200_trend": 1.0005305339812036,
+        "ALMA20_trend": 1.0013393790429979,
+        "btcUpRealtimePrice": [
+            57.903,
+            57.8
+        ],
+        "trailingStopPrice": 57.246290801186944,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9675777695,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:44:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.8,
+            57.8
+        ],
+        "trailingStopPrice": 57.246290801186944,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 18.0469132768,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:45:04 PM",
+        "ALMA200_trend": 1.0005509530465275,
+        "ALMA20_trend": 1.0011645057800813,
+        "btcUpRealtimePrice": [
+            57.8,
+            58.167
+        ],
+        "trailingStopPrice": 57.246290801186944,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9946220869,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:46:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            58.167,
+            57.671
+        ],
+        "trailingStopPrice": 57.534124629080125,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9028880707,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:47:04 PM",
+        "ALMA200_trend": 1.0004370908068954,
+        "ALMA20_trend": 0.9992826571743259,
+        "btcUpRealtimePrice": [
+            57.671,
+            57.541
+        ],
+        "trailingStopPrice": 57.534124629080125,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9331515286,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:48:04 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.541,
+            57.525
+        ],
+        "trailingStopPrice": 57.534124629080125,
+        "callBackRate": 1.011,
+        "isDealClosed": true,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8772463322,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:49:17 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.549
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8775358577,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "1:50:13 PM",
+        "ALMA200_trend": 1.0001991008649536,
+        "ALMA20_trend": 0.9991854346858937,
+        "btcUpRealtimePrice": [
+            57.549,
+            57.476
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8660167571,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:51:13 PM",
+        "ALMA200_trend": 1.0001881932809302,
+        "ALMA20_trend": 0.9991867441533888,
+        "btcUpRealtimePrice": [
+            57.476,
+            57.565
+        ],
+        "trailingStopPrice": 56.85064292779427,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9058089735,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:52:13 PM",
+        "ALMA200_trend": 1.0001971325803731,
+        "ALMA20_trend": 0.9994814182946442,
+        "btcUpRealtimePrice": [
+            57.565,
+            57.7
+        ],
+        "trailingStopPrice": 56.93867457962414,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9056856901,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:53:13 PM",
+        "ALMA200_trend": 1.000208877287748,
+        "ALMA20_trend": 0.99984570193885,
+        "btcUpRealtimePrice": [
+            57.7,
+            57.7
+        ],
+        "trailingStopPrice": 57.072205736894176,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.900427795,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:54:13 PM",
+        "ALMA200_trend": 1.0002133897252101,
+        "ALMA20_trend": 1.000110057208261,
+        "btcUpRealtimePrice": [
+            57.7,
+            57.683
+        ],
+        "trailingStopPrice": 57.072205736894176,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9220267999,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:55:13 PM",
+        "ALMA200_trend": 1.0002241320379703,
+        "ALMA20_trend": 1.0004087316871237,
+        "btcUpRealtimePrice": [
+            57.683,
+            57.756
+        ],
+        "trailingStopPrice": 57.072205736894176,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.897638418599996,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:56:13 PM",
+        "ALMA200_trend": 1.0001943005233815,
+        "ALMA20_trend": 1.0001202467061736,
+        "btcUpRealtimePrice": [
+            57.756,
+            57.673
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8323776658,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:57:13 PM",
+        "ALMA200_trend": 1.000173902924523,
+        "ALMA20_trend": 0.9998446524438667,
+        "btcUpRealtimePrice": [
+            57.673,
+            57.45
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8672720388,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:58:13 PM",
+        "ALMA200_trend": 1.000170471078565,
+        "ALMA20_trend": 0.9997480615502864,
+        "btcUpRealtimePrice": [
+            57.45,
+            57.569
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.876091256899997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "1:59:13 PM",
+        "ALMA200_trend": 1.0001745380210145,
+        "ALMA20_trend": 0.9997790750828115,
+        "btcUpRealtimePrice": [
+            57.569,
+            57.603
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.872954478,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:00:13 PM",
+        "ALMA200_trend": 1.0001708962249327,
+        "ALMA20_trend": 0.9997667279335039,
+        "btcUpRealtimePrice": [
+            57.603,
+            57.72
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.878643864999997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:01:13 PM",
+        "ALMA200_trend": 1.000203973052839,
+        "ALMA20_trend": 1.0002792100232483,
+        "btcUpRealtimePrice": [
+            57.72,
+            57.72
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.879857102,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:02:13 PM",
+        "ALMA200_trend": 1.000176984272959,
+        "ALMA20_trend": 1.0000708641884737,
+        "btcUpRealtimePrice": [
+            57.72,
+            57.612
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.857816806699997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:03:13 PM",
+        "ALMA200_trend": 1.0001607863119801,
+        "ALMA20_trend": 0.9999327357561576,
+        "btcUpRealtimePrice": [
+            57.612,
+            57.54
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9129091718,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:04:13 PM",
+        "ALMA200_trend": 1.000168599010918,
+        "ALMA20_trend": 1.000067364940442,
+        "btcUpRealtimePrice": [
+            57.54,
+            57.724
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.877284896899997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:05:13 PM",
+        "ALMA200_trend": 1.000164600529015,
+        "ALMA20_trend": 1.0000551532099584,
+        "btcUpRealtimePrice": [
+            57.724,
+            57.604
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.889458065200003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:06:13 PM",
+        "ALMA200_trend": 1.000160167964387,
+        "ALMA20_trend": 1.0000302670086534,
+        "btcUpRealtimePrice": [
+            57.604,
+            57.645
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.876276181999998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:07:13 PM",
+        "ALMA200_trend": 1.0001643207318003,
+        "ALMA20_trend": 1.0001202836961829,
+        "btcUpRealtimePrice": [
+            57.645,
+            57.6
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8467433905,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:08:13 PM",
+        "ALMA200_trend": 1.0001523500921252,
+        "ALMA20_trend": 1.0000143130661336,
+        "btcUpRealtimePrice": [
+            57.6,
+            57.5
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8291694467,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:09:13 PM",
+        "ALMA200_trend": 1.000121199247597,
+        "ALMA20_trend": 0.9996392372360136,
+        "btcUpRealtimePrice": [
+            57.5,
+            57.444
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8481640003,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:10:13 PM",
+        "ALMA200_trend": 1.000126087949616,
+        "ALMA20_trend": 0.9997072556150619,
+        "btcUpRealtimePrice": [
+            57.444,
+            57.506
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.896013286699997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:11:13 PM",
+        "ALMA200_trend": 1.0001396800471907,
+        "ALMA20_trend": 0.9999410436847481,
+        "btcUpRealtimePrice": [
+            57.506,
+            57.668
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.896629703699997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:12:13 PM",
+        "ALMA200_trend": 1.000147702825609,
+        "ALMA20_trend": 1.0001554140615547,
+        "btcUpRealtimePrice": [
+            57.668,
+            57.668
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.864771273899997,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:13:13 PM",
+        "ALMA200_trend": 1.0001249129782035,
+        "ALMA20_trend": 0.99997781938935,
+        "btcUpRealtimePrice": [
+            57.668,
+            57.56
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.858968402,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:14:13 PM",
+        "ALMA200_trend": 1.0001323722129363,
+        "ALMA20_trend": 1.0001464310244954,
+        "btcUpRealtimePrice": [
+            57.56,
+            57.542
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9216863452,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:15:13 PM",
+        "ALMA200_trend": 1.000152497129628,
+        "ALMA20_trend": 1.0004842161444407,
+        "btcUpRealtimePrice": [
+            57.542,
+            57.605
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.9058089735,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:16:13 PM",
+        "ALMA200_trend": 1.0001523935564662,
+        "ALMA20_trend": 1.0005625617281664,
+        "btcUpRealtimePrice": [
+            57.605,
+            57.7
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.945159899500002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:17:13 PM",
+        "ALMA200_trend": 1.0001350669736786,
+        "ALMA20_trend": 1.0003700731296177,
+        "btcUpRealtimePrice": [
+            57.7,
+            57.836
+        ],
+        "trailingStopPrice": 57.127596439169146,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.8284660896,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:18:13 PM",
+        "ALMA200_trend": 1.0001428213941854,
+        "ALMA20_trend": 1.0004459551203193,
+        "btcUpRealtimePrice": [
+            57.836,
+            57.502
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7771171219,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:19:13 PM",
+        "ALMA200_trend": 1.0000152734825212,
+        "ALMA20_trend": 0.998730361460766,
+        "btcUpRealtimePrice": [
+            57.502,
+            57.258
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7520731296,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:20:13 PM",
+        "ALMA200_trend": 1.0000247523346004,
+        "ALMA20_trend": 0.9986478631358844,
+        "btcUpRealtimePrice": [
+            57.258,
+            57.25
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7671071145,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:21:13 PM",
+        "ALMA200_trend": 1.0000327573595973,
+        "ALMA20_trend": 0.9987224483100545,
+        "btcUpRealtimePrice": [
+            57.25,
+            57.229
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7672920396,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:22:13 PM",
+        "ALMA200_trend": 1.000050898682298,
+        "ALMA20_trend": 0.9991102381421029,
+        "btcUpRealtimePrice": [
+            57.229,
+            57.229
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7733737245,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:23:13 PM",
+        "ALMA200_trend": 1.000026111308274,
+        "ALMA20_trend": 0.9990757399643302,
+        "btcUpRealtimePrice": [
+            57.229,
+            57.25
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.7110256315,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "2:24:13 PM",
+        "ALMA200_trend": 1.0000164205319206,
+        "ALMA20_trend": 0.9992430446460054,
+        "btcUpRealtimePrice": [
+            57.25,
+            57.1
+        ],
+        "trailingStopPrice": 57.20672601384768,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6412129051,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:25:13 PM",
+        "ALMA200_trend": 0.9999747479246384,
+        "ALMA20_trend": 0.9989684121854834,
+        "btcUpRealtimePrice": [
+            57.1,
+            57.019
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6413557802,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:26:13 PM",
+        "ALMA200_trend": 0.9999677156079073,
+        "ALMA20_trend": 0.9990663757690446,
+        "btcUpRealtimePrice": [
+            57.019,
+            57.014
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641335808900003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:27:13 PM",
+        "ALMA200_trend": 0.9999591841652647,
+        "ALMA20_trend": 0.9991398321981834,
+        "btcUpRealtimePrice": [
+            57.014,
+            56.931
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642555733400002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:28:13 PM",
+        "ALMA200_trend": 0.9999685434522683,
+        "ALMA20_trend": 0.9994574532138858,
+        "btcUpRealtimePrice": [
+            56.931,
+            57.186
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6426341951,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:29:13 PM",
+        "ALMA200_trend": 0.9999766679254318,
+        "ALMA20_trend": 0.9997953763679301,
+        "btcUpRealtimePrice": [
+            57.186,
+            57.188
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.64255019,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:30:13 PM",
+        "ALMA200_trend": 0.999972215738096,
+        "ALMA20_trend": 0.9999729948575311,
+        "btcUpRealtimePrice": [
+            57.188,
+            57.169
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642216371900002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:31:13 PM",
+        "ALMA200_trend": 0.9999894604159364,
+        "ALMA20_trend": 1.000397178398911,
+        "btcUpRealtimePrice": [
+            57.169,
+            57.109
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641257442100002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:32:13 PM",
+        "ALMA200_trend": 0.9999237258497337,
+        "ALMA20_trend": 0.9996840717064419,
+        "btcUpRealtimePrice": [
+            57.109,
+            56.951
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6422408427,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:33:13 PM",
+        "ALMA200_trend": 0.9999169297133341,
+        "ALMA20_trend": 0.9995912055647124,
+        "btcUpRealtimePrice": [
+            56.951,
+            56.936
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641529238900002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:34:13 PM",
+        "ALMA200_trend": 0.9999146846267208,
+        "ALMA20_trend": 0.9995625679890177,
+        "btcUpRealtimePrice": [
+            56.936,
+            56.954
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6432620785,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:35:13 PM",
+        "ALMA200_trend": 0.9999095183620819,
+        "ALMA20_trend": 0.9995376093866551,
+        "btcUpRealtimePrice": [
+            56.954,
+            57.248
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6431387002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:36:13 PM",
+        "ALMA200_trend": 0.9999817243519394,
+        "ALMA20_trend": 1.0005966636099402,
+        "btcUpRealtimePrice": [
+            57.248,
+            57.226
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642626069800002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:37:13 PM",
+        "ALMA200_trend": 0.9999462527602545,
+        "ALMA20_trend": 1.0003602846054291,
+        "btcUpRealtimePrice": [
+            57.226,
+            57.253
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6424942815,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:38:13 PM",
+        "ALMA200_trend": 0.9999572710153535,
+        "ALMA20_trend": 1.000624285708626,
+        "btcUpRealtimePrice": [
+            57.253,
+            57.288
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6423792183,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:39:13 PM",
+        "ALMA200_trend": 0.999979977939275,
+        "ALMA20_trend": 1.0009963003565432,
+        "btcUpRealtimePrice": [
+            57.288,
+            57.187
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.643312538500002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:40:13 PM",
+        "ALMA200_trend": 0.9999590120895916,
+        "ALMA20_trend": 1.0007399543139825,
+        "btcUpRealtimePrice": [
+            57.187,
+            57.157
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6422531632,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:41:13 PM",
+        "ALMA200_trend": 0.9999333145234842,
+        "ALMA20_trend": 1.000306181065536,
+        "btcUpRealtimePrice": [
+            57.157,
+            57.194
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6422447532,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:42:13 PM",
+        "ALMA200_trend": 0.9999308651163097,
+        "ALMA20_trend": 1.0001141957601953,
+        "btcUpRealtimePrice": [
+            57.194,
+            57.193
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.643490097500003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:43:13 PM",
+        "ALMA200_trend": 0.9999676597809654,
+        "ALMA20_trend": 1.0004746102188147,
+        "btcUpRealtimePrice": [
+            57.193,
+            57.495
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6433498043,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:44:13 PM",
+        "ALMA200_trend": 0.9999788062805828,
+        "ALMA20_trend": 1.0006030254126497,
+        "btcUpRealtimePrice": [
+            57.495,
+            57.449
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6431032375,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:45:13 PM",
+        "ALMA200_trend": 0.9999694261222974,
+        "ALMA20_trend": 1.0004874548030083,
+        "btcUpRealtimePrice": [
+            57.449,
+            57.449
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6433247641,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:46:13 PM",
+        "ALMA200_trend": 0.9999771361870268,
+        "ALMA20_trend": 1.00056696865959,
+        "btcUpRealtimePrice": [
+            57.449,
+            57.491
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6422035573,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:47:13 PM",
+        "ALMA200_trend": 0.9999764032869338,
+        "ALMA20_trend": 1.0005213014637802,
+        "btcUpRealtimePrice": [
+            57.491,
+            57.386
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642842053000003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:48:13 PM",
+        "ALMA200_trend": 0.999957626186275,
+        "ALMA20_trend": 1.000202757361439,
+        "btcUpRealtimePrice": [
+            57.386,
+            57.308
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6426678351,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:49:13 PM",
+        "ALMA200_trend": 0.9999289864279152,
+        "ALMA20_trend": 0.9997068872051144,
+        "btcUpRealtimePrice": [
+            57.308,
+            57.192
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.643085658300002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:50:13 PM",
+        "ALMA200_trend": 0.9999158603516418,
+        "ALMA20_trend": 0.9993966523291308,
+        "btcUpRealtimePrice": [
+            57.192,
+            57.271
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6418889513,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:51:13 PM",
+        "ALMA200_trend": 0.9999018789766116,
+        "ALMA20_trend": 0.9991269587079883,
+        "btcUpRealtimePrice": [
+            57.271,
+            57.202
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641990156000002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:52:13 PM",
+        "ALMA200_trend": 0.999933866745074,
+        "ALMA20_trend": 0.999541933314592,
+        "btcUpRealtimePrice": [
+            57.202,
+            57.28
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6429425934,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:53:13 PM",
+        "ALMA200_trend": 0.9999248177525679,
+        "ALMA20_trend": 0.9995505764963201,
+        "btcUpRealtimePrice": [
+            57.28,
+            57.232
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6427464866,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:54:13 PM",
+        "ALMA200_trend": 0.999925244050826,
+        "ALMA20_trend": 0.9996981242610621,
+        "btcUpRealtimePrice": [
+            57.232,
+            57.238
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6418409783,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:55:13 PM",
+        "ALMA200_trend": 0.9999044517771741,
+        "ALMA20_trend": 0.9995583593970221,
+        "btcUpRealtimePrice": [
+            57.238,
+            57.123
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6419395062,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:56:13 PM",
+        "ALMA200_trend": 0.9999239402028793,
+        "ALMA20_trend": 0.9998952240909483,
+        "btcUpRealtimePrice": [
+            57.123,
+            57.23
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6423149947,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:57:13 PM",
+        "ALMA200_trend": 0.999923766654675,
+        "ALMA20_trend": 0.9999823483785597,
+        "btcUpRealtimePrice": [
+            57.23,
+            57.238
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642516644900002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:58:13 PM",
+        "ALMA200_trend": 0.9999201903110417,
+        "ALMA20_trend": 0.9999909842676931,
+        "btcUpRealtimePrice": [
+            57.238,
+            57.218
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642999356,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:59:13 PM",
+        "ALMA200_trend": 0.9999523772747912,
+        "ALMA20_trend": 1.0004431429826761,
+        "btcUpRealtimePrice": [
+            57.218,
+            57.4
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.644449027300002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:00:13 PM",
+        "ALMA200_trend": 0.9999533356588648,
+        "ALMA20_trend": 1.0005053341507253,
+        "btcUpRealtimePrice": [
+            57.4,
+            57.653
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642623582800002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:01:13 PM",
+        "ALMA200_trend": 0.9999230971025841,
+        "ALMA20_trend": 1.0001014746323051,
+        "btcUpRealtimePrice": [
+            57.653,
+            57.326
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6425705409,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:02:13 PM",
+        "ALMA200_trend": 0.9999758177028333,
+        "ALMA20_trend": 1.0007106605420046,
+        "btcUpRealtimePrice": [
+            57.326,
+            57.371
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6429451753,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:03:13 PM",
+        "ALMA200_trend": 0.9999389006615063,
+        "ALMA20_trend": 1.000198483052208,
+        "btcUpRealtimePrice": [
+            57.371,
+            57.322
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.64120459,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:04:13 PM",
+        "ALMA200_trend": 0.9998867322565874,
+        "ALMA20_trend": 0.9993878651413111,
+        "btcUpRealtimePrice": [
+            57.322,
+            57.04
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642426432100002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:05:14 PM",
+        "ALMA200_trend": 0.9999022666925185,
+        "ALMA20_trend": 0.999414481436899,
+        "btcUpRealtimePrice": [
+            57.04,
+            57.09
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6413523442,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:06:14 PM",
+        "ALMA200_trend": 0.999871422670208,
+        "ALMA20_trend": 0.9989360881676058,
+        "btcUpRealtimePrice": [
+            57.09,
+            56.867
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6407517033,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:07:13 PM",
+        "ALMA200_trend": 0.999827467286968,
+        "ALMA20_trend": 0.9983229290880106,
+        "btcUpRealtimePrice": [
+            56.867,
+            56.683
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6415166337,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:08:13 PM",
+        "ALMA200_trend": 0.9998187473722314,
+        "ALMA20_trend": 0.9982231740373126,
+        "btcUpRealtimePrice": [
+            56.683,
+            56.627
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6418508314,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:09:13 PM",
+        "ALMA200_trend": 0.9998271134144555,
+        "ALMA20_trend": 0.998473555161882,
+        "btcUpRealtimePrice": [
+            56.627,
+            56.809
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641797220100003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:10:13 PM",
+        "ALMA200_trend": 0.9998229222880382,
+        "ALMA20_trend": 0.9986776883901666,
+        "btcUpRealtimePrice": [
+            56.809,
+            56.722
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6416546297,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:11:13 PM",
+        "ALMA200_trend": 0.9998368199742244,
+        "ALMA20_trend": 0.9991681254963598,
+        "btcUpRealtimePrice": [
+            56.722,
+            56.793
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6407182531,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:12:13 PM",
+        "ALMA200_trend": 0.9998389982748692,
+        "ALMA20_trend": 0.9995227132509943,
+        "btcUpRealtimePrice": [
+            56.793,
+            56.667
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.642198982500002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:13:13 PM",
+        "ALMA200_trend": 0.9998193856059147,
+        "ALMA20_trend": 0.999531464008,
+        "btcUpRealtimePrice": [
+            56.667,
+            56.975
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641299302300002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:14:13 PM",
+        "ALMA200_trend": 0.9998388801337852,
+        "ALMA20_trend": 0.9999553171864763,
+        "btcUpRealtimePrice": [
+            56.975,
+            56.787
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640020507800003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:15:13 PM",
+        "ALMA200_trend": 0.9998384591648767,
+        "ALMA20_trend": 1.0000813447388488,
+        "btcUpRealtimePrice": [
+            56.787,
+            56.65
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6419331087,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:16:13 PM",
+        "ALMA200_trend": 0.999840259444525,
+        "ALMA20_trend": 1.0001723115205077,
+        "btcUpRealtimePrice": [
+            56.65,
+            57.046
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640800625300002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:17:13 PM",
+        "ALMA200_trend": 0.999863304399468,
+        "ALMA20_trend": 1.0005034990638122,
+        "btcUpRealtimePrice": [
+            57.046,
+            56.926
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640634817400002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:18:13 PM",
+        "ALMA200_trend": 0.9998423743015403,
+        "ALMA20_trend": 1.0002440205164,
+        "btcUpRealtimePrice": [
+            56.926,
+            56.811
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6412066974,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:19:13 PM",
+        "ALMA200_trend": 0.9998555432200742,
+        "ALMA20_trend": 1.000364532027176,
+        "btcUpRealtimePrice": [
+            56.811,
+            56.879
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.641453264200003,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:20:13 PM",
+        "ALMA200_trend": 0.9998480420798722,
+        "ALMA20_trend": 1.0002134822383426,
+        "btcUpRealtimePrice": [
+            56.879,
+            56.879
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640810858000002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:21:13 PM",
+        "ALMA200_trend": 0.999824807629795,
+        "ALMA20_trend": 0.9998275725702559,
+        "btcUpRealtimePrice": [
+            56.879,
+            56.716
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6408576922,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:22:13 PM",
+        "ALMA200_trend": 0.999771233482153,
+        "ALMA20_trend": 0.9990088252486694,
+        "btcUpRealtimePrice": [
+            56.716,
+            56.515
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.638969068,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:23:13 PM",
+        "ALMA200_trend": 0.9997805712916487,
+        "ALMA20_trend": 0.9990010191052072,
+        "btcUpRealtimePrice": [
+            56.515,
+            56.481
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640914359900002,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:24:13 PM",
+        "ALMA200_trend": 0.9998378673076073,
+        "ALMA20_trend": 0.9997664788429382,
+        "btcUpRealtimePrice": [
+            56.481,
+            56.661
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6402307578,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:26:52 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            0.0564
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6418367831,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:27:51 PM",
+        "ALMA200_trend": 1.0001482440265221,
+        "ALMA20_trend": 0.9998775755538053,
+        "btcUpRealtimePrice": [
+            0.0564,
+            0.05643
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.618625151999996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:28:51 PM",
+        "ALMA200_trend": 1.0001617947418715,
+        "ALMA20_trend": 0.9999398844260415,
+        "btcUpRealtimePrice": [
+            0.05643,
+            0.0564
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.608222466799997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:29:51 PM",
+        "ALMA200_trend": 1.0001466428600125,
+        "ALMA20_trend": 0.9997202870443528,
+        "btcUpRealtimePrice": [
+            0.0564,
+            0.05636
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5557420434,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:30:51 PM",
+        "ALMA200_trend": 1.0001491591199345,
+        "ALMA20_trend": 0.9997602106205629,
+        "btcUpRealtimePrice": [
+            0.05636,
+            0.05618
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.536233794299996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:31:51 PM",
+        "ALMA200_trend": 1.0001082158959573,
+        "ALMA20_trend": 0.9992693804598172,
+        "btcUpRealtimePrice": [
+            0.05618,
+            0.05611
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.604284605499995,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:32:51 PM",
+        "ALMA200_trend": 1.0001168965452687,
+        "ALMA20_trend": 0.999393455428921,
+        "btcUpRealtimePrice": [
+            0.05611,
+            0.05639
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5693004599,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:33:51 PM",
+        "ALMA200_trend": 1.0001420904922198,
+        "ALMA20_trend": 0.9997996955398742,
+        "btcUpRealtimePrice": [
+            0.05639,
+            0.05623
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.50285794,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:34:51 PM",
+        "ALMA200_trend": 1.0001190211246633,
+        "ALMA20_trend": 0.9996375817687772,
+        "btcUpRealtimePrice": [
+            0.05623,
+            0.05607
+        ],
+        "trailingStopPrice": 0.05581602373887241,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.514959445199995,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:36:05 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.141
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4946017861,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:37:01 PM",
+        "ALMA200_trend": 0.999914680030031,
+        "ALMA20_trend": 1.0008171017374516,
+        "btcUpRealtimePrice": [
+            57.141,
+            57.2
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.493794426099996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:38:01 PM",
+        "ALMA200_trend": 0.9999284040914083,
+        "ALMA20_trend": 1.00091904851372,
+        "btcUpRealtimePrice": [
+            57.2,
+            57.104
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.526564760399996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:39:01 PM",
+        "ALMA200_trend": 0.9999148950681632,
+        "ALMA20_trend": 1.000642344060988,
+        "btcUpRealtimePrice": [
+            57.104,
+            57.104
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.560649035999997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:40:01 PM",
+        "ALMA200_trend": 0.9998208572999152,
+        "ALMA20_trend": 1.0006496681655372,
+        "btcUpRealtimePrice": [
+            57.104,
+            57
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.581502885099997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:41:01 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57,
+            56.906
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.584196066399997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:42:01 PM",
+        "ALMA200_trend": 0.9998888435911375,
+        "ALMA20_trend": 0.9997420177912559,
+        "btcUpRealtimePrice": [
+            56.906,
+            56.886
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.640521841099996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:43:01 PM",
+        "ALMA200_trend": 0.9998876727152474,
+        "ALMA20_trend": 0.9995462686725282,
+        "btcUpRealtimePrice": [
+            56.886,
+            56.839
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6347149785,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:44:01 PM",
+        "ALMA200_trend": 0.9998816477900021,
+        "ALMA20_trend": 0.9993604725032362,
+        "btcUpRealtimePrice": [
+            56.839,
+            56.857
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.587217237699996,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:45:01 PM",
+        "ALMA200_trend": 0.999887010166729,
+        "ALMA20_trend": 0.9993951632071081,
+        "btcUpRealtimePrice": [
+            56.857,
+            56.877
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6105792481,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:46:01 PM",
+        "ALMA200_trend": 0.9998928506274941,
+        "ALMA20_trend": 0.9995112924674321,
+        "btcUpRealtimePrice": [
+            56.877,
+            56.821
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5532254721,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:47:01 PM",
+        "ALMA200_trend": 0.9998852917113079,
+        "ALMA20_trend": 0.9994925981404627,
+        "btcUpRealtimePrice": [
+            56.821,
+            57.082
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5114589039,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:48:01 PM",
+        "ALMA200_trend": 0.9999339291470767,
+        "ALMA20_trend": 1.0002134086661838,
+        "btcUpRealtimePrice": [
+            57.082,
+            57.079
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4886435435,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:49:01 PM",
+        "ALMA200_trend": 0.9999368104992512,
+        "ALMA20_trend": 1.0003833258400627,
+        "btcUpRealtimePrice": [
+            57.079,
+            57.2
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.462041701799997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:50:01 PM",
+        "ALMA200_trend": 0.9999617656714984,
+        "ALMA20_trend": 1.0007742503968104,
+        "btcUpRealtimePrice": [
+            57.2,
+            57.225
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5064005313,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:51:01 PM",
+        "ALMA200_trend": 0.9999701952659539,
+        "ALMA20_trend": 1.0008949195463195,
+        "btcUpRealtimePrice": [
+            57.225,
+            57.15
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.514993085199997,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:52:31 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.145
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4917488148,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:53:27 PM",
+        "ALMA200_trend": 0.9999800489663818,
+        "ALMA20_trend": 1.0005727922113932,
+        "btcUpRealtimePrice": [
+            57.145,
+            57.215
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4908068948,
+        "whereIsTheMoney": "BTCDOWN",
+        "date": "6/11/2021",
+        "time": "3:54:27 PM",
+        "ALMA200_trend": 0.9999665841975279,
+        "ALMA20_trend": 1.0002075620819264,
+        "btcUpRealtimePrice": [
+            57.215,
+            57.117
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.491933768699997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:55:27 PM",
+        "ALMA200_trend": 0.9999627824695807,
+        "ALMA20_trend": 0.999962074791232,
+        "btcUpRealtimePrice": [
+            57.117,
+            57.096
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4919758187,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:56:27 PM",
+        "ALMA200_trend": 0.9999696170490071,
+        "ALMA20_trend": 0.9998931133671908,
+        "btcUpRealtimePrice": [
+            57.096,
+            57.101
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4930606022,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:57:27 PM",
+        "ALMA200_trend": 1.0000005438358799,
+        "ALMA20_trend": 1.0002054152951123,
+        "btcUpRealtimePrice": [
+            57.101,
+            57.23
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.493060517,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:58:07 PM",
+        "ALMA200_trend": null,
+        "ALMA20_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            57.23
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.493968754399997,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:59:03 PM",
+        "ALMA200_trend": 1.0000007965559221,
+        "ALMA20_trend": 1.0001944775662166,
+        "btcUpRealtimePrice": [
+            57.23,
+            57.338
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4625320892,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:00:03 PM",
+        "ALMA200_trend": 1.000023863804111,
+        "ALMA20_trend": 1.0004776073740362,
+        "btcUpRealtimePrice": [
+            57.338,
+            57.3
+        ],
+        "trailingStopPrice": 56.7141444114738,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4896608601,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:01:03 PM",
+        "ALMA200_trend": 1.000021362553635,
+        "ALMA20_trend": 1.0004299810590738,
+        "btcUpRealtimePrice": [
+            57.3,
+            57.391
+        ],
+        "trailingStopPrice": 56.7141444114738,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5221555993,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:02:03 PM",
+        "ALMA200_trend": 1.0000415792847228,
+        "ALMA20_trend": 1.0006262859962662,
+        "btcUpRealtimePrice": [
+            57.391,
+            57.5
+        ],
+        "trailingStopPrice": 56.76656775469832,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5221554715,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:03:03 PM",
+        "ALMA200_trend": 1.0001354237009557,
+        "ALMA20_trend": 1.0016716722843446,
+        "btcUpRealtimePrice": [
+            57.5,
+            57.5
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.499796641899998,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:04:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.5,
+            57.425
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5293106071,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:05:03 PM",
+        "ALMA200_trend": 1.0000613746118658,
+        "ALMA20_trend": 1.0005530422443472,
+        "btcUpRealtimePrice": [
+            57.425,
+            57.425
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4810152736,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:06:03 PM",
+        "ALMA200_trend": 1.0001236095594563,
+        "ALMA20_trend": 1.000526015652948,
+        "btcUpRealtimePrice": [
+            57.425,
+            57.362
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4923437271,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:07:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.362,
+            57.4
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.534378498,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:08:03 PM",
+        "ALMA200_trend": 1.000166405872116,
+        "ALMA20_trend": 1.0003945083434949,
+        "btcUpRealtimePrice": [
+            57.4,
+            57.541
+        ],
+        "trailingStopPrice": 56.87438180019783,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.522155578,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:09:03 PM",
+        "ALMA200_trend": 1.0001033912462762,
+        "ALMA20_trend": 1.0003485882798941,
+        "btcUpRealtimePrice": [
+            57.541,
+            57.599
+        ],
+        "trailingStopPrice": 56.91493570722058,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5108269541,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:10:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.599,
+            57.462
+        ],
+        "trailingStopPrice": 56.97230464886251,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5221556632,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:11:03 PM",
+        "ALMA200_trend": 1.000091818059912,
+        "ALMA20_trend": 1.00014908795805,
+        "btcUpRealtimePrice": [
+            57.462,
+            57.458
+        ],
+        "trailingStopPrice": 56.97230464886251,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5519675141,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:12:03 PM",
+        "ALMA200_trend": 1.0000946338852341,
+        "ALMA20_trend": 1.0001018642590431,
+        "btcUpRealtimePrice": [
+            57.458,
+            57.6
+        ],
+        "trailingStopPrice": 56.97230464886251,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5609110715,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:13:03 PM",
+        "ALMA200_trend": 1.0001232487034335,
+        "ALMA20_trend": 1.0003905223270741,
+        "btcUpRealtimePrice": [
+            57.6,
+            57.63
+        ],
+        "trailingStopPrice": 56.973293768546,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6026475094,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:14:03 PM",
+        "ALMA200_trend": 1.000132419140849,
+        "ALMA20_trend": 1.0004610830552425,
+        "btcUpRealtimePrice": [
+            57.63,
+            57.77
+        ],
+        "trailingStopPrice": 57.00296735905045,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5683636029,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:15:03 PM",
+        "ALMA200_trend": 1.0003300635095316,
+        "ALMA20_trend": 1.0016080551853312,
+        "btcUpRealtimePrice": [
+            57.77,
+            57.655
+        ],
+        "trailingStopPrice": 57.141444114737894,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.528415672,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:16:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.655,
+            57.521
+        ],
+        "trailingStopPrice": 57.141444114737894,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.6682335473,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:17:03 PM",
+        "ALMA200_trend": 1.0003113435900715,
+        "ALMA20_trend": 1.000907958990371,
+        "btcUpRealtimePrice": [
+            57.521,
+            57.903
+        ],
+        "trailingStopPrice": 57.141444114737894,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5966851307,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:18:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.903,
+            57.75
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5814811811,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:19:03 PM",
+        "ALMA200_trend": 1.0001726786597056,
+        "ALMA20_trend": 1.0004692958825938,
+        "btcUpRealtimePrice": [
+            57.75,
+            57.698
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5990705806,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:20:03 PM",
+        "ALMA200_trend": 1.0001667896819737,
+        "ALMA20_trend": 1.000247587742474,
+        "btcUpRealtimePrice": [
+            57.698,
+            57.758
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.492343791,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:21:03 PM",
+        "ALMA200_trend": 1.0003047095660975,
+        "ALMA20_trend": 0.999711701165885,
+        "btcUpRealtimePrice": [
+            57.758,
+            57.39
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.4741584923,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:22:03 PM",
+        "ALMA200_trend": 1,
+        "ALMA20_trend": 1,
+        "btcUpRealtimePrice": [
+            57.39,
+            57.339
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.486381327100002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:23:03 PM",
+        "ALMA200_trend": 1.0001101119522666,
+        "ALMA20_trend": 0.9990769745336138,
+        "btcUpRealtimePrice": [
+            57.339,
+            57.38
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.560017244,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:24:03 PM",
+        "ALMA200_trend": 1.0001180298528254,
+        "ALMA20_trend": 0.9990772710633742,
+        "btcUpRealtimePrice": [
+            57.38,
+            57.627
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.563594407100002,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:25:03 PM",
+        "ALMA200_trend": 1.000162519728531,
+        "ALMA20_trend": 0.9996804857710466,
+        "btcUpRealtimePrice": [
+            57.627,
+            57.639
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5701529193,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:26:03 PM",
+        "ALMA200_trend": 1.0001661939157949,
+        "ALMA20_trend": 0.999893722694104,
+        "btcUpRealtimePrice": [
+            57.639,
+            57.661
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5308009515,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:27:03 PM",
+        "ALMA200_trend": 1.0001714877991137,
+        "ALMA20_trend": 1.0001315603469463,
+        "btcUpRealtimePrice": [
+            57.661,
+            57.529
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5454091084,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:28:03 PM",
+        "ALMA200_trend": 1.0001493330991114,
+        "ALMA20_trend": 0.9999657589255425,
+        "btcUpRealtimePrice": [
+            57.529,
+            57.578
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5021817084,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:29:04 PM",
+        "ALMA200_trend": 1.0001584998448045,
+        "ALMA20_trend": 1.000108451933341,
+        "btcUpRealtimePrice": [
+            57.578,
+            57.433
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
+    },
+    {
+        "price": 17.5036724149,
+        "whereIsTheMoney": "BTCUP",
+        "date": "6/11/2021",
+        "time": "4:30:03 PM",
+        "ALMA200_trend": 1.0003041415386156,
+        "ALMA20_trend": 0.999965084369497,
+        "btcUpRealtimePrice": [
+            57.433,
+            57.438
+        ],
+        "trailingStopPrice": 57.27299703264095,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "mainTrailingStop"
     }
 ]

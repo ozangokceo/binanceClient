@@ -19408,5 +19408,785 @@
         "callBackRate": 1.012,
         "isDealClosed": false,
         "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:34:18 PM",
+        "ALMA200_trend": null,
+        "btcUpRealtimePrice": [
+            0,
+            56.954
+        ],
+        "trailingStopPrice": null,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:35:17 PM",
+        "ALMA200_trend": 0.9999095183620819,
+        "btcUpRealtimePrice": [
+            56.954,
+            57.248
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:36:17 PM",
+        "ALMA200_trend": 0.9999817243519394,
+        "btcUpRealtimePrice": [
+            57.248,
+            57.226
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:37:17 PM",
+        "ALMA200_trend": 0.9999462527602545,
+        "btcUpRealtimePrice": [
+            57.226,
+            57.253
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:38:17 PM",
+        "ALMA200_trend": 0.9999572710153535,
+        "btcUpRealtimePrice": [
+            57.253,
+            57.23
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:39:17 PM",
+        "ALMA200_trend": 0.999979977939275,
+        "btcUpRealtimePrice": [
+            57.23,
+            57.187
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:40:17 PM",
+        "ALMA200_trend": 0.9999590120895916,
+        "btcUpRealtimePrice": [
+            57.187,
+            57.254
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:41:17 PM",
+        "ALMA200_trend": 0.9999333145234842,
+        "btcUpRealtimePrice": [
+            57.254,
+            57.194
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:42:17 PM",
+        "ALMA200_trend": 0.9999308651163097,
+        "btcUpRealtimePrice": [
+            57.194,
+            57.193
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:43:17 PM",
+        "ALMA200_trend": 0.9999676597809654,
+        "btcUpRealtimePrice": [
+            57.193,
+            57.479
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:44:17 PM",
+        "ALMA200_trend": 0.9999788062805828,
+        "btcUpRealtimePrice": [
+            57.479,
+            57.449
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:45:17 PM",
+        "ALMA200_trend": 0.9999694261222974,
+        "btcUpRealtimePrice": [
+            57.449,
+            57.449
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:46:17 PM",
+        "ALMA200_trend": 0.9999771361870268,
+        "btcUpRealtimePrice": [
+            57.449,
+            57.49
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:47:17 PM",
+        "ALMA200_trend": 0.9999764032869338,
+        "btcUpRealtimePrice": [
+            57.49,
+            57.386
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:48:17 PM",
+        "ALMA200_trend": 0.999957626186275,
+        "btcUpRealtimePrice": [
+            57.386,
+            57.194
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:49:17 PM",
+        "ALMA200_trend": 0.9999289864279152,
+        "btcUpRealtimePrice": [
+            57.194,
+            57.136
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:50:17 PM",
+        "ALMA200_trend": 0.9999158603516418,
+        "btcUpRealtimePrice": [
+            57.136,
+            57.271
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:51:17 PM",
+        "ALMA200_trend": 0.9999018789766116,
+        "btcUpRealtimePrice": [
+            57.271,
+            57.202
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:52:17 PM",
+        "ALMA200_trend": 0.999933866745074,
+        "btcUpRealtimePrice": [
+            57.202,
+            57.28
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:53:17 PM",
+        "ALMA200_trend": 0.9999248177525679,
+        "btcUpRealtimePrice": [
+            57.28,
+            57.232
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:54:17 PM",
+        "ALMA200_trend": 0.999925244050826,
+        "btcUpRealtimePrice": [
+            57.232,
+            57.238
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:55:17 PM",
+        "ALMA200_trend": 0.9999044517771741,
+        "btcUpRealtimePrice": [
+            57.238,
+            57.123
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:56:17 PM",
+        "ALMA200_trend": 0.9999239402028793,
+        "btcUpRealtimePrice": [
+            57.123,
+            57.23
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:57:17 PM",
+        "ALMA200_trend": 0.999923766654675,
+        "btcUpRealtimePrice": [
+            57.23,
+            57.218
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:58:17 PM",
+        "ALMA200_trend": 0.9999201903110417,
+        "btcUpRealtimePrice": [
+            57.218,
+            57.218
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "2:59:17 PM",
+        "ALMA200_trend": 0.9999523772747912,
+        "btcUpRealtimePrice": [
+            57.218,
+            57.4
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:00:17 PM",
+        "ALMA200_trend": 0.9999533356588648,
+        "btcUpRealtimePrice": [
+            57.4,
+            57.653
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:01:17 PM",
+        "ALMA200_trend": 0.9999230971025841,
+        "btcUpRealtimePrice": [
+            57.653,
+            57.513
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:02:17 PM",
+        "ALMA200_trend": 0.9999758177028333,
+        "btcUpRealtimePrice": [
+            57.513,
+            57.371
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:03:17 PM",
+        "ALMA200_trend": 0.9999389006615063,
+        "btcUpRealtimePrice": [
+            57.371,
+            57.181
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:04:17 PM",
+        "ALMA200_trend": 0.9998867322565874,
+        "btcUpRealtimePrice": [
+            57.181,
+            57.04
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:05:17 PM",
+        "ALMA200_trend": 0.9999022666925185,
+        "btcUpRealtimePrice": [
+            57.04,
+            57.09
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:06:17 PM",
+        "ALMA200_trend": 0.999871422670208,
+        "btcUpRealtimePrice": [
+            57.09,
+            56.867
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:07:17 PM",
+        "ALMA200_trend": 0.999827467286968,
+        "btcUpRealtimePrice": [
+            56.867,
+            56.627
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:08:17 PM",
+        "ALMA200_trend": 0.9998187473722314,
+        "btcUpRealtimePrice": [
+            56.627,
+            56.63
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:09:18 PM",
+        "ALMA200_trend": 0.9998271134144555,
+        "btcUpRealtimePrice": [
+            56.63,
+            56.809
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:10:17 PM",
+        "ALMA200_trend": 0.9998229222880382,
+        "btcUpRealtimePrice": [
+            56.809,
+            56.725
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:11:17 PM",
+        "ALMA200_trend": 0.9998368199742244,
+        "btcUpRealtimePrice": [
+            56.725,
+            56.793
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:12:17 PM",
+        "ALMA200_trend": 0.9998389982748692,
+        "btcUpRealtimePrice": [
+            56.793,
+            56.667
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:13:17 PM",
+        "ALMA200_trend": 0.9998193856059147,
+        "btcUpRealtimePrice": [
+            56.667,
+            56.975
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:14:17 PM",
+        "ALMA200_trend": 0.9998388801337852,
+        "btcUpRealtimePrice": [
+            56.975,
+            56.912
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:15:17 PM",
+        "ALMA200_trend": 0.9998384591648767,
+        "btcUpRealtimePrice": [
+            56.912,
+            56.65
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:16:17 PM",
+        "ALMA200_trend": 0.999840259444525,
+        "btcUpRealtimePrice": [
+            56.65,
+            56.975
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:17:17 PM",
+        "ALMA200_trend": 0.999863304399468,
+        "btcUpRealtimePrice": [
+            56.975,
+            56.926
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:18:17 PM",
+        "ALMA200_trend": 0.9998423743015403,
+        "btcUpRealtimePrice": [
+            56.926,
+            56.811
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:19:17 PM",
+        "ALMA200_trend": 0.9998555432200742,
+        "btcUpRealtimePrice": [
+            56.811,
+            56.879
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:20:17 PM",
+        "ALMA200_trend": 0.9998480420798722,
+        "btcUpRealtimePrice": [
+            56.879,
+            56.879
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:21:17 PM",
+        "ALMA200_trend": 0.999824807629795,
+        "btcUpRealtimePrice": [
+            56.879,
+            56.7
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:22:17 PM",
+        "ALMA200_trend": 0.999771233482153,
+        "btcUpRealtimePrice": [
+            56.7,
+            56.515
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:23:17 PM",
+        "ALMA200_trend": 0.9997805712916487,
+        "btcUpRealtimePrice": [
+            56.515,
+            56.7
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:24:17 PM",
+        "ALMA200_trend": 0.9998378673076073,
+        "btcUpRealtimePrice": [
+            56.7,
+            56.661
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
+    },
+    {
+        "totalEquitiy": 17.642,
+        "whereIsTheMoney": "USDT",
+        "date": "6/11/2021",
+        "time": "3:25:17 PM",
+        "ALMA200_trend": 0.9998110713786154,
+        "btcUpRealtimePrice": [
+            56.661,
+            56.745
+        ],
+        "trailingStopPrice": 0,
+        "callBackRate": 1.011,
+        "isDealClosed": false,
+        "mode": "testMainTrailingStop"
     }
 ]

@@ -1,4 +1,4 @@
-//Node.js app for buy/sell between 2 leveraged tokens (ex. BTCUP/USDT <==> BTCDOWN/USDT)
+//Node.js app for buy/sell BTCUP , ONLY one-way..
 require('dotenv').config();
 
 const fs = require('fs');
@@ -11,8 +11,8 @@ const binance = new ccxt.binance ({
 
 const hysteresisSignalUp = true    
 
-const ALMA20_THRESHOLD = 1.0001
-const ALMA200_THRESHOLD = 1.00002
+const ALMA20_THRESHOLD = 1.0000
+const ALMA200_THRESHOLD = 1.0000
 const CALLBACK_RATE = 1.011;                    //Dynamic Stop-Loss Take-Profit window.
 
 const isDealClosedArray = [];                   //Not used for now.
@@ -192,48 +192,6 @@ const main = async() => {
             });
         }) 
 
-        //----------------------------------------------------------------------------------------------
-        //Keeps trade records only when a trade is closed! (NOT on minute basis)
-        // Read the file
-        fs.readFile('./testTradeData.json', 'utf8', (err, data) => {
-            let databases = []
-            if (err) {
-                console.log(`Error reading file from disk: ${err}`);
-            } else {
-                databases = JSON.parse(data)   // parse JSON string to JSON object
-            }
-            // Add a new record
-                databases.push({
-
-            });
-            // Write new data back to the file
-            fs.writeFile('./testTradeData.json', JSON.stringify(databases, null, 4), (err) => {
-                if (err) {
-                    console.log(`Error writing file: ${err}`);
-                }
-            });
-        }) 
-
-        //TO-DO -- REAL HYSTERESIS CONTROL!!
-        //Hysteresis control will take ALMA trend vector and convert it to either UP or DOWN , since program is not concerned with how high the vector is.. 
-        //It's only UP or DOWN. For example , activation will be at 1.000 BUT sell will be at 0.99995..
-        const hysteresisControl = () => {
-            if (trendVector_BTCUP_ALMA200 > 1.0000) {
-                hysteresisSignalUp = true
-            }
-            if (trendVector_BTCUP_ALMA200 < 0.9999 && hysteresisSignalUp) {
-                //CODE GOES HERE..
-            }
-        }
-
-        //TO-DO -- CONTROL SELECTOR
-        //Control selector gives control to either trailingStopControlUP or trilingStopControlDOWN (this distinguishing is not implemented yet but it will..)
-        //CONDITIONS: For any given moment ; if (trailingStopLossUP) exploded AND ( trendVector_BTCUP_ALMA200 < 1 ) at the same time , then hand control to DOWN..
-        //OTHER WAY IS WISE'N VERSA => For any given moment ; if (trailingStopLossDOWN) exploded AND ( trendVector_BTCUP_ALMA200 > 1 ) at the same time , then hand control to UP..
-        const controlSelector = () => {
-            //CODE GOES HERE..
-        }
-        
         //Trailing-Stop Control!!----------------------------------------------------------------------------------
         const trailingStopControl = async() => {                          //This is the new "orderTriggerControl"
             if( trendVector_BTCUP_ALMA200 === null) { return }           //Don't do anything..
@@ -251,6 +209,10 @@ const main = async() => {
             if( trendVector_BTCUP_ALMA200 < ALMA200_THRESHOLD) {
                 isDealClosed = false;
             }
+
+            for (let i = OHLCV.length - 1; i >= OHLCV.length - 500; i--) {    
+                closedValueDataSet_500.push(OHLCV[i][4]);                          
+            }        
 
             const findHighestPrice = () => {  //Finds the highest price in the trailingStopPriceArray[]. That value is used for determining Trailing Stop price..
                 let highest = 0;
