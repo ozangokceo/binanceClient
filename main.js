@@ -13,7 +13,7 @@ const hysteresisSignalUp = true
 
 const ALMA20_THRESHOLD = 1.0000
 const ALMA200_THRESHOLD = 1.0000
-const CALLBACK_RATE = 1.011;                    //Dynamic Stop-Loss Take-Profit window.
+const CALLBACK_RATE = 1.012;                    //Dynamic Stop-Loss Take-Profit window.
 
 const isDealClosedArray = [];                   //Not used for now.
 let isDealClosed = false;          
